@@ -421,7 +421,7 @@
 * [Nginx - Advanced Concept]
 * [Nginx - Advanced Reverse Proxy]
 
-### 📖 Monitoring🥈
+#### 📖 Monitoring
 
 * [Monitoring - Log Concept]
 * [Monitoring - Log Level & Filter]
@@ -635,9 +635,6 @@
 * [Reactive Programming - Reactive Streaming Data Processing]
 
 #### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1
-
-* [사용자 수에 따른 규모 확장성](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B7%9C%EB%AA%A8-%ED%99%95%EC%9E%A5%EC%84%B1)
-* [처리율 제한 장치의 설계](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98%EC%9D%98-%EC%84%A4%EA%B3%84)
 
 #### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2
 
