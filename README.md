@@ -55,99 +55,6 @@
 * [Java - CAS](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-CAS)
 * [Java - Virtual Thread⭐](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Virtual-Thread)
 
-#### 📖 Effective Java 3/E
-
-* [(Effective Java Item 1) Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
-* [(Effective Java Item 2) Java - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-2%5D)
-* [(Effective Java Item 3) Java - private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-private-%EC%83%9D%EC%84%B1%EC%9E%90%EB%82%98-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9E%84%EC%9D%84-%EB%B3%B4%EC%A6%9D%ED%95%98%EB%9D%BC%5BEffective-Java-Item-3%5D)
-* [(Effective Java Item 4) Java - 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC-%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0-private-%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-4%5D)
-* [(Effective Java Item 5) Java - 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9E%90%EC%9B%90%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%A1%B4-%EA%B0%9D%EC%B2%B4-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-5%5D)
-* [(Effective Java Item 6) Java ‐ 불필요한 객체 생성을 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-6%5D)
-* [(Effective Java Item 7) Java - 다 쓴 객체 참조를 해제하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4-%EC%93%B4-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC%5BEffective-Java-Item-7%5D)
-* [(Effective Java Item 8) Java - finalizer와 cleaner 사용을 피하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-finalizer%EC%99%80-cleaner-%EC%82%AC%EC%9A%A9%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-8%5D)
-* [(Effective Java Item 9) Java - try‐finally보다는 try‐with‐resources를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-try%E2%80%90finally%EB%B3%B4%EB%8B%A4%EB%8A%94-try%E2%80%90with%E2%80%90resources%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-9%5D)
-* [(Effective Java Item 10) Java ‐ equals는 일반 규약을 지켜 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-10%5D)
-* [(Effective Java Item 11) Java ‐ equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-equals%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0-hashCode%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-11%5D)
-* [(Effective Java Item 12) Java - toString을 항상 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-toString%EC%9D%84-%ED%95%AD%EC%83%81-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-12%5D)
-* [(Effective Java Item 13) Java ‐ clone 재정의는 주의해서 진행하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-clone-%EC%9E%AC%EC%A0%95%EC%9D%98%EB%8A%94-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%9D%BC%5BEffective-Java-Item-13%5D)
-* [(Effective Java Item 14) Java ‐ Comparable을 구현할지 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Comparable%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-14%5D)
-* [(Effective Java Item 15) Java ‐ 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-15%5D)
-* [(Effective Java Item 16) Java ‐ public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-public-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94-public-%ED%95%84%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%8C-%EC%A0%91%EA%B7%BC%EC%9E%90-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-16%5D)
-* [(Effective Java Item 17) Java ‐ 변경 가능성을 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-17%5D)
-* [(Effective Java Item 18) Java ‐ 상속보다는 컴포지션을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-18%5D)
-* [(Effective Java Item 19) Java ‐ 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC.-%EA%B7%B8%EB%9F%AC%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B8%88%EC%A7%80%ED%95%98%EB%9D%BC%5BEffective-Java-Item-19%5D)
-* [(Effective Java Item 20) Java ‐ 추상 클래스보다는 인터페이스를 우선하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9A%B0%EC%84%A0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-20%5D)
-* [(Effective Java Item 21) Java ‐ 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EC%AA%BD%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC%5BEffective-Java-Item-21%5D)
-* [(Effective Java Item 22) Java ‐ 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94-%ED%83%80%EC%9E%85%EC%9D%84-%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94-%EC%9A%A9%EB%8F%84%EB%A1%9C%EB%A7%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-22%5D)
-* [(Effective Java Item 23) Java ‐ 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%83%9C%EA%B7%B8-%EB%8B%AC%EB%A6%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-23%5D)
-* [(Effective Java Item 24) Java ‐ 멤버 클래스는 되도록 static으로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%A4%EB%B2%84-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%90%98%EB%8F%84%EB%A1%9D-static%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-24%5D)
-* [(Effective Java Item 25) Java ‐ 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%86%B1%EB%A0%88%EB%B2%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%ED%95%9C-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%95%98%EB%82%98%EB%A7%8C-%EB%8B%B4%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-25%5D)
-* [(Effective Java Item 26) Java ‐ 로 타입은 사용하지 말라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A1%9C-%ED%83%80%EC%9E%85%EC%9D%80-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-26%5D)
-* [(Effective Java Item 27) Java ‐ 비검사 경고를 제거하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B9%84%EA%B2%80%EC%82%AC-%EA%B2%BD%EA%B3%A0%EB%A5%BC-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-27%5D)
-* [(Effective Java Item 28) Java ‐ 배열보다는 리스트를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-28%5D)
-* [(Effective Java Item 29) Java ‐ 이왕이면 제네릭 타입으로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-29%5D)
-* [(Effective Java Item 30) Java ‐ 이왕이면 제네릭 메서드로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-30%5D)
-* [(Effective Java Item 31) Java - 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%95%9C%EC%A0%95%EC%A0%81-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-API-%EC%9C%A0%EC%97%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%9D%BC%5BEffective-Java-Item-31%5D)
-* [(Effective Java Item 32) Java - 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%93%B8-%EB%95%8C%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%95%98%EB%9D%BC%5BEffective-Java-Item-32%5D)
-* [(Effective Java Item 33) Java ‐ 타입 안전 이종 컨테이너를 고려하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%ED%83%80%EC%9E%85-%EC%95%88%EC%A0%84-%EC%9D%B4%EC%A2%85-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-33%5D)
-* [(Effective Java Item 34) Java - int 상수 대신 열거 타입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-34%5D)
-* [(Effective Java Item 35) Java - ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-ordinal-%EB%A9%94%EC%84%9C%EB%93%9C-%EB%8C%80%EC%8B%A0-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%95%84%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-35%5D)
-* [(Effective Java Item 36) Java ‐ 비트 필드 대신 EnumSet을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B9%84%ED%8A%B8-%ED%95%84%EB%93%9C-%EB%8C%80%EC%8B%A0-EnumSet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-36%5D)
-* [(Effective Java Item 37) Java ‐ ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-ordinal-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EB%8C%80%EC%8B%A0-EnumMap%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-37%5D)
-* [(Effective Java Item 38) Java ‐ 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%99%95%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-38%5D)
-* [(Effective Java Item 39) Java ‐ 명명 패턴보다 애너테이션을 사용하라[Effective Java Item 39]](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EB%AA%85%EB%AA%85-%ED%8C%A8%ED%84%B4%EB%B3%B4%EB%8B%A4-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-39%5D)
-* [(Effective Java Item 40) Java ‐ @Override 어노테이션을 일괄되게 사용하라](http://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-@Override-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%9D%BC%EA%B4%84%EB%90%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-40%5D)
-* [(Effective Java Item 41) Java ‐ 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94-%EA%B2%83%EC%9D%B4-%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%A7%88%EC%BB%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-41%5D)
-* [(Effective Java Item 42) Java ‐ 익명 클래스보다는 람다를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-42%5D)
-* [(Effective Java Item 43) Java ‐ 람다보다는 메서드 참조를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%9E%8C%EB%8B%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-43%5D)
-* [(Effective Java Item 44) Java - 표준 함수형 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-44%5D)
-* [(Effective Java Item 45) Java - 스트림은 주의해서 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%80-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-45%5D)
-* [(Effective Java Item 46) Java - 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-46%5D)
-* [(Effective Java Item 47) Java - 반환 타입으로는 스트림보다 컬렉션이 낫다](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%98%ED%99%98-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%EB%8A%94-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EB%B3%B4%EB%8B%A4-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4-%EB%82%AB%EB%8B%A4%5BEffective-Java-Item-47%5D)
-* [(Effective Java Item 48) Java ‐ 스트림 병렬화는 주의해서 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EB%B3%91%EB%A0%AC%ED%99%94%EB%8A%94-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-48%5D)
-* [(Effective Java Item 49) Java ‐ 매개변수가 유효한지 검사하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EC%9C%A0%ED%9A%A8%ED%95%9C%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-49%5D)
-* [(Effective Java Item 50) Java ‐ 적시에 방어적 복사본을 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%81%EC%8B%9C%EC%97%90-%EB%B0%A9%EC%96%B4%EC%A0%81-%EB%B3%B5%EC%82%AC%EB%B3%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-50%5D)
-* [(Effective Java Item 51) Java ‐ 메서드 시그니처를 신중히 설계하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%EB%A5%BC-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC%5BEffective-Java-Item-51%5D)
-* [(Effective Java Item 52) Java ‐ 다중정의는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4%EC%A4%91%EC%A0%95%EC%9D%98%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-52%5D)
-* [(Effective Java Item 53) Java ‐ 가변인수는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-53%5D)
-* [(Effective Java Item 54) Java - null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-null%EC%9D%B4-%EC%95%84%EB%8B%8C,-%EB%B9%88-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%EB%82%98-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-54%5D)
-* [(Effective Java Item 55) Java ‐ 옵셔널 반환은 신중히 하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%B5%EC%85%94%EB%84%90-%EB%B0%98%ED%99%98%EC%9D%80-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC%5BEffective-Java-Item-55%5D)
-* [(Effective Java Item 56) Java ‐ 공개된 API 요소에는 항상 문서화 주석을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%B5%EA%B0%9C%EB%90%9C-API-%EC%9A%94%EC%86%8C%EC%97%90%EB%8A%94-%ED%95%AD%EC%83%81-%EB%AC%B8%EC%84%9C%ED%99%94-%EC%A3%BC%EC%84%9D%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-56%5D)
-* [(Effective Java Item 57) Java ‐ 지역변수의 범위를 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-57%5D)
-* [(Effective Java Item 58) Java ‐ 전통적인 for문보다는 for‐each문을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for%E2%80%90each%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-58%5D)
-* [(Effective Java Item 59) Java ‐ 라이브러리를 익히고 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%9D%B5%ED%9E%88%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-59%5D)
-* [(Effective Java Item 60) Java ‐ 정확한 답이 필요하다면 float와 double은 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%95%ED%99%95%ED%95%9C-%EB%8B%B5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4%EB%A9%B4-float%EC%99%80-double%EC%9D%80-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-60%5D)
-* [(Effective Java Item 61) Java ‐ 박싱된 기본 타입보다는 기본 타입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-61%5D)
-* [(Effective Java Item 62) Java ‐ 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4%EB%A5%B8-%ED%83%80%EC%9E%85%EC%9D%B4-%EC%A0%81%EC%A0%88%ED%95%98%EB%8B%A4%EB%A9%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-62%5D)
-* [(Effective Java Item 63) Java ‐ 문자열 연결은 느리니 주의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%97%B0%EA%B2%B0%EC%9D%80-%EB%8A%90%EB%A6%AC%EB%8B%88-%EC%A3%BC%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-63%5D)
-* [(Effective Java Item 64) Java ‐ 객체는 인터페이스를 사용해 참조하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EA%B0%9D%EC%B2%B4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-64%5D)
-* [(Effective Java Item 65) Java ‐ 리플렉션보다는 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-65%5D)
-* [(Effective Java Item 66) Java ‐ 네이티브 메서드는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-66%5D)
-* [(Effective Java Item 67) Java ‐ 최적화는 신중히 하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC%5BEffective-Java-Item-67%5D)
-* [(Effective Java Item 68) Java ‐ 일반적으로 통용되는 명명 규칙을 따르라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99%EC%9D%84-%EB%94%B0%EB%A5%B4%EB%9D%BC%5BEffective-Java-Item-68%5D)
-* [(Effective Java Item 69) Java ‐ 예외는 진짜 예외 상황에만 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%99%B8-%EC%83%81%ED%99%A9%EC%97%90%EB%A7%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-69%5D)
-* [(Effective Java Item 70) Java ‐ 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EB%B3%B5%EA%B5%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EB%8A%94-%EA%B2%80%EC%82%AC-%EC%98%88%EC%99%B8%EB%A5%BC,-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%98%A4%EB%A5%98%EC%97%90%EB%8A%94-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-70%5D)
-* [(Effective Java Item 71) Java ‐ 필요 없는 검사 예외 사용은 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%95%84%EC%9A%94-%EC%97%86%EB%8A%94-%EA%B2%80%EC%82%AC-%EC%98%88%EC%99%B8-%EC%82%AC%EC%9A%A9%EC%9D%80-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-71%5D)
-* [(Effective Java Item 72) Java ‐ 표준 예외를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%91%9C%EC%A4%80-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-72%5D)
-* [(Effective Java Item 73) Java ‐ 추상화 수준에 맞는 예외를 던지라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B6%94%EC%83%81%ED%99%94-%EC%88%98%EC%A4%80%EC%97%90-%EB%A7%9E%EB%8A%94-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%8D%98%EC%A7%80%EB%9D%BC%5BEffective-Java-Item-73%5D)
-* [(Effective Java Item 74) Java ‐ 메서드가 던지는 모든 예외를 문서화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%94%EC%84%9C%EB%93%9C%EA%B0%80-%EB%8D%98%EC%A7%80%EB%8A%94-%EB%AA%A8%EB%93%A0-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-74%5D)
-* [(Effective Java Item 75) Java ‐ 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EC%9D%98-%EC%83%81%EC%84%B8-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%8B%A4%ED%8C%A8-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EB%8B%B4%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-75%5D)
-* [(Effective Java Item 76) Java ‐ 가능한 한 실패 원자적으로 만들라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9E%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-76%5D)
-* [(Effective Java Item 77) Java ‐ 예외를 무시하지 말라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%AC%B4%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-77%5D)
-* [(Effective Java Item 78) Java - 공유 중인 가변 데이터는 동기화해 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%B5%EC%9C%A0-%EC%A4%91%EC%9D%B8-%EA%B0%80%EB%B3%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-78%5D)
-* [(Effective Java Item 79) Java - 과도한 동기화는 피하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%BC%EB%8F%84%ED%95%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EB%8A%94-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-79%5D)
-* [(Effective Java Item 80) Java - 쓰레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%93%B0%EB%A0%88%EB%93%9C%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%8B%A4%ED%96%89%EC%9E%90,-%ED%83%9C%EC%8A%A4%ED%81%AC,-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-80%5D)
-* [(Effective Java Item 81) Java - wait와 notify는 동시성 유틸리티를 애용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-wait%EC%99%80-notify%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-81%5D)
-* [(Effective Java Item 82) Java - 쓰레드 안전성 수준을 문서화하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%84%EC%84%B1-%EC%88%98%EC%A4%80%EC%9D%84-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-82%5D)
-* [(Effective Java Item 83) Java - 지연 초기화는 신중히 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A7%80%EC%97%B0-%EC%B4%88%EA%B8%B0%ED%99%94%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-83%5D)
-* [(Effective Java Item 84) Java - 프로그램의 동작을 쓰레드 스케줄러에 기대지 말라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9D%84-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%97%90-%EA%B8%B0%EB%8C%80%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-84%5D)
-* [(Effective Java Item 85) Java - 자바 직렬화의 대안을 찾으라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EC%A7%81%EB%A0%AC%ED%99%94%EC%9D%98-%EB%8C%80%EC%95%88%EC%9D%84-%EC%B0%BE%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-85%5D)
-* [(Effective Java Item 86) Java - Serializable을 구현할지는 신중히 결정하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-Serializable%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
-* [(Effective Java Item 87) Java - 커스텀 직렬화 형태를 고려해보라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A7%81%EB%A0%AC%ED%99%94-%ED%98%95%ED%83%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4%EB%B3%B4%EB%9D%BC%5BEffective-Java-Item-87%5D)
-* [(Effective Java Item 88) Java - readObject 메서드는 방어적으로 작성하라⚠️](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-readObject-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EB%B0%A9%EC%96%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
-* [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라⚠️](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
-* [(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라⚠️]
-
 #### 📖 Kotlin
 
 * [Kotlin - Variables, Types, and Operators in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EB%B3%80%EC%88%98%EC%99%80-%ED%83%80%EC%9E%85,-%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
@@ -162,64 +69,20 @@
 * [Kotlin - Annotations and Reflection in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B3%BC-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98)
 * [Kotlin - Miscellaneous Topics in Kotlin](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%ED%83%80)
 
-#### 📖 Kotlin Academy - 핵심편
-
-* [Kotlin - Variable](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
-* [Kotlin - Primitive Types, Literals, and Operations](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
-* [Kotlin - Control Flow: if, when, try, and while](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%A1%B0%EA%B1%B4%EB%AC%B8:-if,-when,-try,-while%5BEffective-Kotlin-Item-5%5D)
-* [Kotlin - Function](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%ED%95%A8%EC%88%98%5BEffective-Kotlin-Item-6%5D)
-* [Kotlin - For](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-for%EB%AC%B8%EC%9D%98-%EA%B0%95%EB%A0%A5%ED%95%A8%5BEffective-Kotlin-Item-7%5D)
-* [Kotlin - Null Safety and Nullable Types](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%84%90-%EA%B0%80%EB%8A%A5%EC%84%B1%5BEffective-Kotlin-Item-8%5D)
-* [Kotlin - Class](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-9%5D)
-* [Kotlin - Extend](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%83%81%EC%86%8D%5BEffective-Kotlin-Item-10%5D)
-* [Kotlin - Data Class](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-11%5D)
-* [Kotlin - Object](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EA%B0%9D%EC%B2%B4%5BEffective-Kotlin-Item-12%5D)
-* [Kotlin ‐ Exception](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%98%88%EC%99%B8%5BEffective-Kotlin-Item-13%5D)
-* [Kotlin - Enum Classes](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%97%B4%EA%B1%B0%ED%98%95-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-14%5D)
-* [Kotlin - Sealed Classes and Interfaces](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EB%B4%89%EC%9D%B8%EB%90%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%5BEffective-Kotlin-Item-15%5D)
-* [Kotlin - Annotation Classes](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-16%5D)
-* [Kotlin - Extensions](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%ED%99%95%EC%9E%A5%5BEffective-Kotlin-Item-17%5D)
-* [Kotlin - Collections](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%BB%AC%EB%A0%89%EC%85%98%5BEffective-Kotlin-Item-18%5D)
-* [Kotlin - Operator Overloading](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%5BEffective-Kotlin-Item-19%5D)
-* [Kotlin - The Beauty of the Type System](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%98%EB%AF%B8%5BEffective-Kotlin-Item-20%5D)
-* [Kotlin - Generic](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%5BEffective-Kotlin-Item-21%5D)
-
-#### 📖 Kotlin Academy - Effective Kotlin
-
-* [(Effective Kotlin Item 1) Kotlin - 가변성을 제한하라]
-* [(Effective Kotlin Item 2) Kotlin - 임계 영역을 제거하라]
-* [(Effective Kotlin Item 3) Kotlin - 가능한 한 빨리 플랫폼 타입을 제거하라]
-* [(Effective Kotlin Item 4) Kotlin - 변수의 스코프를 최소화하라]
-* [(Effective Kotlin Item 5) Kotlin - 인수와 상태에 대한 기대치를 명시하라]
-* [(Effective Kotlin Item 6) Kotlin - 사용자 정의 오류보다 표준 오류를 선호하라]
-* [(Effective Kotlin Item 7) Kotlin - 결과가 없을 가능성이 있는 경우 널 가능 또는 Result 반환 타입을 선호하라]
-* [(Effective Kotlin Item 8) Kotlin - use를 사용하여 리소스를 닫아라]
-* [(Effective Kotlin Item 9) Kotlin - 단위 테스트를 작성하라]
-* [(Effective Kotlin Item 10) Kotlin - 가독성을 목표로 설계하라]
-* [(Effective Kotlin Item 11) Kotlin - 연산자의 의미는 함수의 이름과 일치해야 한다]
-* [(Effective Kotlin Item 12) Kotlin - 가독성을 높이려면 연산자를 사용하라]
-* [(Effective Kotlin Item 13) Kotlin - 타입 명시를 고려하라]
-* [(Effective Kotlin Item 14) Kotlin - 리시버를 명시적으로 참조하라]
-* [(Effective Kotlin Item 15) Kotlin - 프로퍼티는 동작이 아닌 상태를 나타내야 한다]
-* [(Effective Kotlin Item 16) Kotlin - Unit?을 반환이나 연산에 사용하지 말라]
-* [(Effective Kotlin Item 17) Kotlin - 이름 있는 인수 사용을 고려하라]
-* [(Effective Kotlin Item 18) Kotlin - 코딩 컨벤션을 준수하라]
-
 #### 📖 Coroutine
 
-* [Coroutine - Coroutines Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B8%B0%EC%B4%88)
-* [Coroutine - Coroutines Component & Process Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Coroutines-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EC%99%80-%EB%8F%99%EC%9E%91-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
-* [Coroutine ‐ Dispatchers](https://github.com/dnwls16071/Backend_Summary/wiki/Kotlin-%E2%80%90-Dispatchers)
-* [Coroutine - Limitations of Thread-Based Work & the Emergence of Coroutines]
-* [Coroutine - Controlling Coroutines with Job]
-* [Coroutine - Receiving Results from Coroutines]
-* [Coroutine - Coroutine Context]
-* [Coroutine - Structured Concurrency]
-* [Coroutine - Exception Handling]
-* [Coroutine - Suspended Functions]
-* [Coroutine - Understanding Coroutines]
-* [Coroutine - Advanced Coroutines]
-* [Coroutine - Coroutine Testing]
+* [Coroutine - Limitations of Thread-Based Work & the Emergence of Coroutines](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Limitations-of-Thread%E2%80%90Based-Work-&-the-Emergence-of-Coroutines)
+* [Coroutine - runBlocking](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-runBlocking)
+* [Coroutine - CoroutineDispatcher](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-CoroutineDispatcher)
+* [Coroutine - Controlling Coroutines with Job](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Controlling-Coroutines-with-Job)
+* [Coroutine - Receiving Results from Coroutines](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Receiving-Results-from-Coroutines)
+* [Coroutine - Coroutine Context](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Coroutine-Context)
+* [Coroutine - Structured Concurrency](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Structured-Concurrency)
+* [Coroutine - Exception Handling](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Exception-Handling)
+* [Coroutine - Suspended Functions](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Suspended-Functions)
+* [Coroutine - Understanding Coroutines](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Understanding-Coroutines)
+* [Coroutine - Advanced Coroutines](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Advanced-Coroutines)
+* [Coroutine - Coroutine Testing](https://github.com/thought-corner/Backend-PlayGround/wiki/Coroutine-%E2%80%90-Coroutine-Testing)
 
 #### 📖 Spring
 
@@ -296,7 +159,7 @@
 
 #### 📖 Spring Batch
 
-* [Spring Batch - Introduction](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%86%8C%EA%B0%9C)
+* [Spring Batch - Scheduler vs Batch](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-Batch-%E2%80%90-Scheduler-vs-Batch)
 * [Spring Batch - Batch Concept](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%9C%EC%9E%91)
 * [Spring Batch - Batch Domain](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EB%8F%84%EB%A9%94%EC%9D%B8)
 * [Spring Batch - Job](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Batch-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-%EC%8B%A4%ED%96%89(Job))
@@ -322,25 +185,6 @@
 * [Reactive Programming - Core Operators in WebFlux Reactor](https://github.com/woojin-playground/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Core-Operators-in-WebFlux-Reactor)
 * [Reactive Programming - Practical Patterns in WebFlux](https://github.com/woojin-playground/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Practical-Patterns-in-WebFlux)
 * [Reactive Programming - WebFlux Patterns with Spring Boot](https://github.com/woojin-playground/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-WebFlux-Patterns-with-Spring-Boot)
-* [Reactive Programming - Reactive Streams]
-* [Reactive Programming - Blocking I/O & Non-Blocking I/O]
-* [Reactive Programming - Reactor Outline]
-* [Reactive Programming - Marble Diagram]
-* [Reactive Programming - Cold Sequence & Hot Sequence]
-* [Reactive Programming - Backpressure]
-* [Reactive Programming - Sinks]
-* [Reactive Programming - Scheduler]
-* [Reactive Programming - Context]
-* [Reactive Programming - Debugging]
-* [Reactive Programming - Testing]
-* [Reactive Programming - Operators]
-* [Reactive Programming - Spring Webflux]
-* [Reactive Programming - Annotation Based Controller]
-* [Reactive Programming - Functional Endpoint]
-* [Reactive Programming - Spring Data R2DBC]
-* [Reactive Programming - Exception Handling]
-* [Reactive Programming - WebClient]
-* [Reactive Programming - Reactive Streaming Data Processing]
 
 #### 📖 Database
 
@@ -464,26 +308,18 @@
 * [MicroService Architecture - Protocol Buffers]
 * [MicroService Architecture - gRPC Communication Patterns]
 * [MicroService Architecture - gRPC Optimization Strategies and Implementation]
-
-#### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초
-
-* [사용자 수에 따른 규모 확장성](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B7%9C%EB%AA%A8-%ED%99%95%EC%9E%A5%EC%84%B1)
-* [처리율 제한 장치의 설계](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98%EC%9D%98-%EC%84%A4%EA%B3%84)
-
-#### 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식
-
-* [느려진 서비스, 어디부터 봐야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [성능을 좌우하는 DB 설계와 쿼리](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
-* [외부 연동이 문제일 때 살펴봐야 할 것들](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
-* [비동기 연동, 언제 어떻게 써야 할까](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
-* [IO 병목, 어떻게 해결하지](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
-* [실무에서 꼭 필요한 보안 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
-* [모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
-* [자주 쓰는 서버 구조와 설계 패턴](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
+* [MicroService Architecture - 2PC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-2PC)
+* [MicroService Architecture - TCC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-TCC)
+* [MicroService Architecture - SAGA](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-SAGA)
 
 #### 📖 Kafka
 
+* [Apache Kafka - Kafka Introduction](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
+* [Apache Kafka - Kafka CLI](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%95%84%ED%8C%8C%EC%B9%98-%EC%B9%B4%ED%94%84%EC%B9%B4-CLI)
+* [Apache Kafka - Kafka Producer Application](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
+* [Apache Kafka - Kafka Consumer Application](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
+* [Apache Kafka - Idempotent Producer & Transactional Producer & Transactional Consumer](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C,-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C%EC%99%80-%EC%BB%A8%EC%8A%88%EB%A8%B8)
+* [Apache Kafka - Kafka Streams](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88)
 * [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
 * [Apache Kafka - Producer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
 * [Apache Kafka - Consumer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Consumer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Consumer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
@@ -559,19 +395,20 @@
 * [Kubernetes - ConfigMap & Secret](https://github.com/woojin-playground/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-ConfigMap,-Secret)
 * [Kubernetes - PV/PVC & Deployment & Service & HPA](https://github.com/woojin-playground/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-PV-&-PVC,-Deployment,-Service,-HPA)
 * [Kubernetes - Helm & Kustomize](https://github.com/woojin-playground/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Helm-&-Kustomize)
-* [Kubernetes - Pod](https://github.com/woojin-playground/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Pod)
+* [Kubernetes - Pod 1](https://github.com/thought-corner/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Basic-Object)
+* [Kubernetes - Pod 2]
+* [Kubernetes - Controller 1](https://github.com/thought-corner/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Basic--Controller)
+* [Kubernetes - Controller 2]
+* [Kubernetes - Object]
 * [Kubernetes - Ingress & Nginx Application]
 * [Kubernetes - Node Scheduling]
 * [Kubernetes - Monitoring]
 * [Kubernetes - Logging]
+* [Kubernetes - Deployment using Amazon EKS](https://github.com/thought-corner/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Deployment-using-Amazon-EKS)
 
 #### 📖 CI/CD
 
 * [Github Actions - Github Actions](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
-* [Jenkins - Jenkins + IaC]
-* [Jenkins - Advanced Jenkins Pipeline]
-* [Jenkins - Advanced Jenkins SonarQube & Multi nodes]
-* [Jenkins - Jenkins Appendix]
 
 #### 📖 Nginx
 
@@ -610,3 +447,241 @@
 * [Test - Testing with Spring & JPA]
 * [Test - A Guide to Effective Mocking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mock%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8)
 * [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
+
+#### 📖 Effective Java 3/E
+
+* [(Effective Java Item 1) Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
+* [(Effective Java Item 2) Java - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-2%5D)
+* [(Effective Java Item 3) Java - private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-private-%EC%83%9D%EC%84%B1%EC%9E%90%EB%82%98-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9E%84%EC%9D%84-%EB%B3%B4%EC%A6%9D%ED%95%98%EB%9D%BC%5BEffective-Java-Item-3%5D)
+* [(Effective Java Item 4) Java - 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC-%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0-private-%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-4%5D)
+* [(Effective Java Item 5) Java - 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9E%90%EC%9B%90%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%AA%85%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%A1%B4-%EA%B0%9D%EC%B2%B4-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-5%5D)
+* [(Effective Java Item 6) Java ‐ 불필요한 객체 생성을 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-6%5D)
+* [(Effective Java Item 7) Java - 다 쓴 객체 참조를 해제하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4-%EC%93%B4-%EA%B0%9D%EC%B2%B4-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC%5BEffective-Java-Item-7%5D)
+* [(Effective Java Item 8) Java - finalizer와 cleaner 사용을 피하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-finalizer%EC%99%80-cleaner-%EC%82%AC%EC%9A%A9%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-8%5D)
+* [(Effective Java Item 9) Java - try‐finally보다는 try‐with‐resources를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-try%E2%80%90finally%EB%B3%B4%EB%8B%A4%EB%8A%94-try%E2%80%90with%E2%80%90resources%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-9%5D)
+* [(Effective Java Item 10) Java ‐ equals는 일반 규약을 지켜 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-10%5D)
+* [(Effective Java Item 11) Java ‐ equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-equals%EB%A5%BC-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0-hashCode%EB%8F%84-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-11%5D)
+* [(Effective Java Item 12) Java - toString을 항상 재정의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-toString%EC%9D%84-%ED%95%AD%EC%83%81-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-12%5D)
+* [(Effective Java Item 13) Java ‐ clone 재정의는 주의해서 진행하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-clone-%EC%9E%AC%EC%A0%95%EC%9D%98%EB%8A%94-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%9D%BC%5BEffective-Java-Item-13%5D)
+* [(Effective Java Item 14) Java ‐ Comparable을 구현할지 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Comparable%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-14%5D)
+* [(Effective Java Item 15) Java ‐ 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-15%5D)
+* [(Effective Java Item 16) Java ‐ public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-public-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94-public-%ED%95%84%EB%93%9C%EA%B0%80-%EC%95%84%EB%8B%8C-%EC%A0%91%EA%B7%BC%EC%9E%90-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-16%5D)
+* [(Effective Java Item 17) Java ‐ 변경 가능성을 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-17%5D)
+* [(Effective Java Item 18) Java ‐ 상속보다는 컴포지션을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-18%5D)
+* [(Effective Java Item 19) Java ‐ 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC.-%EA%B7%B8%EB%9F%AC%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4-%EC%83%81%EC%86%8D%EC%9D%84-%EA%B8%88%EC%A7%80%ED%95%98%EB%9D%BC%5BEffective-Java-Item-19%5D)
+* [(Effective Java Item 20) Java ‐ 추상 클래스보다는 인터페이스를 우선하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9A%B0%EC%84%A0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-20%5D)
+* [(Effective Java Item 21) Java ‐ 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EC%AA%BD%EC%9D%84-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC%5BEffective-Java-Item-21%5D)
+* [(Effective Java Item 22) Java ‐ 인터페이스는 타입을 정의하는 용도로만 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94-%ED%83%80%EC%9E%85%EC%9D%84-%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94-%EC%9A%A9%EB%8F%84%EB%A1%9C%EB%A7%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-22%5D)
+* [(Effective Java Item 23) Java ‐ 태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%83%9C%EA%B7%B8-%EB%8B%AC%EB%A6%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%ED%81%B4%EB%9E%98%EC%8A%A4-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-23%5D)
+* [(Effective Java Item 24) Java ‐ 멤버 클래스는 되도록 static으로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%A4%EB%B2%84-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%90%98%EB%8F%84%EB%A1%9D-static%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-24%5D)
+* [(Effective Java Item 25) Java ‐ 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%86%B1%EB%A0%88%EB%B2%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%ED%95%9C-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%95%98%EB%82%98%EB%A7%8C-%EB%8B%B4%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-25%5D)
+* [(Effective Java Item 26) Java ‐ 로 타입은 사용하지 말라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A1%9C-%ED%83%80%EC%9E%85%EC%9D%80-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-26%5D)
+* [(Effective Java Item 27) Java ‐ 비검사 경고를 제거하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B9%84%EA%B2%80%EC%82%AC-%EA%B2%BD%EA%B3%A0%EB%A5%BC-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-27%5D)
+* [(Effective Java Item 28) Java ‐ 배열보다는 리스트를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-28%5D)
+* [(Effective Java Item 29) Java ‐ 이왕이면 제네릭 타입으로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-29%5D)
+* [(Effective Java Item 30) Java ‐ 이왕이면 제네릭 메서드로 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-30%5D)
+* [(Effective Java Item 31) Java - 한정적 와일드카드를 사용해 API 유연성을 높이라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%95%9C%EC%A0%95%EC%A0%81-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-API-%EC%9C%A0%EC%97%B0%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%9D%BC%5BEffective-Java-Item-31%5D)
+* [(Effective Java Item 32) Java - 제네릭과 가변인수를 함께 쓸 때는 신중하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%EA%B3%BC-%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%93%B8-%EB%95%8C%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%95%98%EB%9D%BC%5BEffective-Java-Item-32%5D)
+* [(Effective Java Item 33) Java ‐ 타입 안전 이종 컨테이너를 고려하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%ED%83%80%EC%9E%85-%EC%95%88%EC%A0%84-%EC%9D%B4%EC%A2%85-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-33%5D)
+* [(Effective Java Item 34) Java - int 상수 대신 열거 타입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-34%5D)
+* [(Effective Java Item 35) Java - ordinal 메서드 대신 인스턴스 필드를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-ordinal-%EB%A9%94%EC%84%9C%EB%93%9C-%EB%8C%80%EC%8B%A0-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%95%84%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-35%5D)
+* [(Effective Java Item 36) Java ‐ 비트 필드 대신 EnumSet을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B9%84%ED%8A%B8-%ED%95%84%EB%93%9C-%EB%8C%80%EC%8B%A0-EnumSet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-36%5D)
+* [(Effective Java Item 37) Java ‐ ordinal 인덱싱 대신 EnumMap을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-ordinal-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EB%8C%80%EC%8B%A0-EnumMap%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-37%5D)
+* [(Effective Java Item 38) Java ‐ 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%99%95%EC%9E%A5%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-38%5D)
+* [(Effective Java Item 39) Java ‐ 명명 패턴보다 애너테이션을 사용하라[Effective Java Item 39]](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EB%AA%85%EB%AA%85-%ED%8C%A8%ED%84%B4%EB%B3%B4%EB%8B%A4-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-39%5D)
+* [(Effective Java Item 40) Java ‐ @Override 어노테이션을 일괄되게 사용하라](http://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-@Override-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84-%EC%9D%BC%EA%B4%84%EB%90%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-40%5D)
+* [(Effective Java Item 41) Java ‐ 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94-%EA%B2%83%EC%9D%B4-%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%A7%88%EC%BB%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-41%5D)
+* [(Effective Java Item 42) Java ‐ 익명 클래스보다는 람다를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%9E%8C%EB%8B%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-42%5D)
+* [(Effective Java Item 43) Java ‐ 람다보다는 메서드 참조를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%9E%8C%EB%8B%A4%EB%B3%B4%EB%8B%A4%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B0%B8%EC%A1%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-43%5D)
+* [(Effective Java Item 44) Java - 표준 함수형 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-44%5D)
+* [(Effective Java Item 45) Java - 스트림은 주의해서 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%80-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-45%5D)
+* [(Effective Java Item 46) Java - 스트림에서는 부작용 없는 함수를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%97%90%EC%84%9C%EB%8A%94-%EB%B6%80%EC%9E%91%EC%9A%A9-%EC%97%86%EB%8A%94-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-46%5D)
+* [(Effective Java Item 47) Java - 반환 타입으로는 스트림보다 컬렉션이 낫다](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%98%ED%99%98-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%EB%8A%94-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EB%B3%B4%EB%8B%A4-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4-%EB%82%AB%EB%8B%A4%5BEffective-Java-Item-47%5D)
+* [(Effective Java Item 48) Java ‐ 스트림 병렬화는 주의해서 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EB%B3%91%EB%A0%AC%ED%99%94%EB%8A%94-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-48%5D)
+* [(Effective Java Item 49) Java ‐ 매개변수가 유효한지 검사하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EC%9C%A0%ED%9A%A8%ED%95%9C%EC%A7%80-%EA%B2%80%EC%82%AC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-49%5D)
+* [(Effective Java Item 50) Java ‐ 적시에 방어적 복사본을 만들라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%81%EC%8B%9C%EC%97%90-%EB%B0%A9%EC%96%B4%EC%A0%81-%EB%B3%B5%EC%82%AC%EB%B3%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-50%5D)
+* [(Effective Java Item 51) Java ‐ 메서드 시그니처를 신중히 설계하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%EB%A5%BC-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC%5BEffective-Java-Item-51%5D)
+* [(Effective Java Item 52) Java ‐ 다중정의는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4%EC%A4%91%EC%A0%95%EC%9D%98%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-52%5D)
+* [(Effective Java Item 53) Java ‐ 가변인수는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EA%B0%80%EB%B3%80%EC%9D%B8%EC%88%98%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-53%5D)
+* [(Effective Java Item 54) Java - null이 아닌, 빈 컬렉션이나 배열을 반환하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-null%EC%9D%B4-%EC%95%84%EB%8B%8C,-%EB%B9%88-%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%EB%82%98-%EB%B0%B0%EC%97%B4%EC%9D%84-%EB%B0%98%ED%99%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-54%5D)
+* [(Effective Java Item 55) Java ‐ 옵셔널 반환은 신중히 하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%B5%EC%85%94%EB%84%90-%EB%B0%98%ED%99%98%EC%9D%80-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC%5BEffective-Java-Item-55%5D)
+* [(Effective Java Item 56) Java ‐ 공개된 API 요소에는 항상 문서화 주석을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%B5%EA%B0%9C%EB%90%9C-API-%EC%9A%94%EC%86%8C%EC%97%90%EB%8A%94-%ED%95%AD%EC%83%81-%EB%AC%B8%EC%84%9C%ED%99%94-%EC%A3%BC%EC%84%9D%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-56%5D)
+* [(Effective Java Item 57) Java ‐ 지역변수의 범위를 최소화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A7%80%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98-%EB%B2%94%EC%9C%84%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-57%5D)
+* [(Effective Java Item 58) Java ‐ 전통적인 for문보다는 for‐each문을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%84%ED%86%B5%EC%A0%81%EC%9D%B8-for%EB%AC%B8%EB%B3%B4%EB%8B%A4%EB%8A%94-for%E2%80%90each%EB%AC%B8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-58%5D)
+* [(Effective Java Item 59) Java ‐ 라이브러리를 익히고 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%9D%B5%ED%9E%88%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-59%5D)
+* [(Effective Java Item 60) Java ‐ 정확한 답이 필요하다면 float와 double은 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%A0%95%ED%99%95%ED%95%9C-%EB%8B%B5%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4%EB%A9%B4-float%EC%99%80-double%EC%9D%80-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-60%5D)
+* [(Effective Java Item 61) Java ‐ 박싱된 기본 타입보다는 기본 타입을 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B0%95%EC%8B%B1%EB%90%9C-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-61%5D)
+* [(Effective Java Item 62) Java ‐ 다른 타입이 적절하다면 문자열 사용을 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8B%A4%EB%A5%B8-%ED%83%80%EC%9E%85%EC%9D%B4-%EC%A0%81%EC%A0%88%ED%95%98%EB%8B%A4%EB%A9%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-62%5D)
+* [(Effective Java Item 63) Java ‐ 문자열 연결은 느리니 주의하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%97%B0%EA%B2%B0%EC%9D%80-%EB%8A%90%EB%A6%AC%EB%8B%88-%EC%A3%BC%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Java-Item-63%5D)
+* [(Effective Java Item 64) Java ‐ 객체는 인터페이스를 사용해 참조하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EA%B0%9D%EC%B2%B4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC%5BEffective-Java-Item-64%5D)
+* [(Effective Java Item 65) Java ‐ 리플렉션보다는 인터페이스를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-65%5D)
+* [(Effective Java Item 66) Java ‐ 네이티브 메서드는 신중히 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-66%5D)
+* [(Effective Java Item 67) Java ‐ 최적화는 신중히 하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B5%9C%EC%A0%81%ED%99%94%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%ED%95%98%EB%9D%BC%5BEffective-Java-Item-67%5D)
+* [(Effective Java Item 68) Java ‐ 일반적으로 통용되는 명명 규칙을 따르라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%86%B5%EC%9A%A9%EB%90%98%EB%8A%94-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99%EC%9D%84-%EB%94%B0%EB%A5%B4%EB%9D%BC%5BEffective-Java-Item-68%5D)
+* [(Effective Java Item 69) Java ‐ 예외는 진짜 예외 상황에만 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%98%88%EC%99%B8-%EC%83%81%ED%99%A9%EC%97%90%EB%A7%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-69%5D)
+* [(Effective Java Item 70) Java ‐ 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EB%B3%B5%EA%B5%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EB%8A%94-%EA%B2%80%EC%82%AC-%EC%98%88%EC%99%B8%EB%A5%BC,-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%98%A4%EB%A5%98%EC%97%90%EB%8A%94-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-70%5D)
+* [(Effective Java Item 71) Java ‐ 필요 없는 검사 예외 사용은 피하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%95%84%EC%9A%94-%EC%97%86%EB%8A%94-%EA%B2%80%EC%82%AC-%EC%98%88%EC%99%B8-%EC%82%AC%EC%9A%A9%EC%9D%80-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-71%5D)
+* [(Effective Java Item 72) Java ‐ 표준 예외를 사용하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%91%9C%EC%A4%80-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-72%5D)
+* [(Effective Java Item 73) Java ‐ 추상화 수준에 맞는 예외를 던지라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%B6%94%EC%83%81%ED%99%94-%EC%88%98%EC%A4%80%EC%97%90-%EB%A7%9E%EB%8A%94-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%8D%98%EC%A7%80%EB%9D%BC%5BEffective-Java-Item-73%5D)
+* [(Effective Java Item 74) Java ‐ 메서드가 던지는 모든 예외를 문서화하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%A9%94%EC%84%9C%EB%93%9C%EA%B0%80-%EB%8D%98%EC%A7%80%EB%8A%94-%EB%AA%A8%EB%93%A0-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-74%5D)
+* [(Effective Java Item 75) Java ‐ 예외의 상세 메시지에 실패 관련 정보를 담으라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EC%9D%98-%EC%83%81%EC%84%B8-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%8B%A4%ED%8C%A8-%EA%B4%80%EB%A0%A8-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EB%8B%B4%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-75%5D)
+* [(Effective Java Item 76) Java ‐ 가능한 한 실패 원자적으로 만들라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EC%8B%A4%ED%8C%A8-%EC%9B%90%EC%9E%90%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC%5BEffective-Java-Item-76%5D)
+* [(Effective Java Item 77) Java ‐ 예외를 무시하지 말라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%98%88%EC%99%B8%EB%A5%BC-%EB%AC%B4%EC%8B%9C%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-77%5D)
+* [(Effective Java Item 78) Java - 공유 중인 가변 데이터는 동기화해 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%B5%EC%9C%A0-%EC%A4%91%EC%9D%B8-%EA%B0%80%EB%B3%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-78%5D)
+* [(Effective Java Item 79) Java - 과도한 동기화는 피하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EA%B3%BC%EB%8F%84%ED%95%9C-%EB%8F%99%EA%B8%B0%ED%99%94%EB%8A%94-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Java-Item-79%5D)
+* [(Effective Java Item 80) Java - 쓰레드보다는 실행자, 태스크, 스트림을 애용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%93%B0%EB%A0%88%EB%93%9C%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%8B%A4%ED%96%89%EC%9E%90,-%ED%83%9C%EC%8A%A4%ED%81%AC,-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-80%5D)
+* [(Effective Java Item 81) Java - wait와 notify는 동시성 유틸리티를 애용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-wait%EC%99%80-notify%EB%8A%94-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0%EB%A5%BC-%EC%95%A0%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-81%5D)
+* [(Effective Java Item 82) Java - 쓰레드 안전성 수준을 문서화하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%84%EC%84%B1-%EC%88%98%EC%A4%80%EC%9D%84-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Java-Item-82%5D)
+* [(Effective Java Item 83) Java - 지연 초기화는 신중히 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%A7%80%EC%97%B0-%EC%B4%88%EA%B8%B0%ED%99%94%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-83%5D)
+* [(Effective Java Item 84) Java - 프로그램의 동작을 쓰레드 스케줄러에 기대지 말라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EB%8F%99%EC%9E%91%EC%9D%84-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%97%90-%EA%B8%B0%EB%8C%80%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Java-Item-84%5D)
+* [(Effective Java Item 85) Java - 자바 직렬화의 대안을 찾으라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EC%A7%81%EB%A0%AC%ED%99%94%EC%9D%98-%EB%8C%80%EC%95%88%EC%9D%84-%EC%B0%BE%EC%9C%BC%EB%9D%BC%5BEffective-Java-Item-85%5D)
+* [(Effective Java Item 86) Java - Serializable을 구현할지는 신중히 결정하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-Serializable%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%EB%8A%94-%EC%8B%A0%EC%A4%91%ED%9E%88-%EA%B2%B0%EC%A0%95%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
+* [(Effective Java Item 87) Java - 커스텀 직렬화 형태를 고려해보라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A7%81%EB%A0%AC%ED%99%94-%ED%98%95%ED%83%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4%EB%B3%B4%EB%9D%BC%5BEffective-Java-Item-87%5D)
+* [(Effective Java Item 88) Java - readObject 메서드는 방어적으로 작성하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-readObject-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EB%B0%A9%EC%96%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
+* [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
+* [(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
+
+#### 📖 Kotlin Academy - Effective Kotlin
+
+* [(Effective Kotlin Item 1) Kotlin - 가변성을 제한하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-1%5D)
+* [(Effective Kotlin Item 2) Kotlin - 임계 영역을 제거하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-2%5D)
+* [(Effective Kotlin Item 3) Kotlin - 가능한 한 빨리 플랫폼 타입을 제거하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%9C-%EB%B9%A8%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%83%80%EC%9E%85%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-3%5D)
+* [(Effective Kotlin Item 4) Kotlin - 변수의 스코프를 최소화하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84%EB%A5%BC-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-4%5D)
+* [(Effective Kotlin Item 5) Kotlin - 인수와 상태에 대한 기대치를 명시하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%B8%EC%88%98%EC%99%80-%EC%83%81%ED%83%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B8%B0%EB%8C%80%EC%B9%98%EB%A5%BC-%EB%AA%85%EC%8B%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-5%5D)
+* [(Effective Kotlin Item 6) Kotlin - 사용자 정의 오류보다 표준 오류를 선호하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EC%98%A4%EB%A5%98%EB%B3%B4%EB%8B%A4-%ED%91%9C%EC%A4%80-%EC%98%A4%EB%A5%98%EB%A5%BC-%EC%84%A0%ED%98%B8%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-6%5D)
+* [(Effective Kotlin Item 7) Kotlin - 결과가 없을 가능성이 있는 경우 널 가능 또는 Result 반환 타입을 선호하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B2%B0%EA%B3%BC%EA%B0%80-%EC%97%86%EC%9D%84-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%B4-%EC%9E%88%EB%8A%94-%EA%B2%BD%EC%9A%B0-%EB%84%90-%EA%B0%80%EB%8A%A5-%EB%98%90%EB%8A%94-Result-%EB%B0%98%ED%99%98-%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%98%B8%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-7%5D)
+* [(Effective Kotlin Item 8) Kotlin - use를 사용하여 리소스를 닫아라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-use%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A6%AC%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%8B%AB%EC%95%84%EB%9D%BC%5BEffective-Kotlin-Item-8%5D)
+* [(Effective Kotlin Item 9) Kotlin - 단위 테스트를 작성하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-9%5D)
+* [(Effective Kotlin Item 10) Kotlin - 가독성을 목표로 설계하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%8F%85%EC%84%B1%EC%9D%84-%EB%AA%A9%ED%91%9C%EB%A1%9C-%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-10%5D)
+* [(Effective Kotlin Item 11) Kotlin - 연산자의 의미는 함수의 이름과 일치해야 한다](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9D%98%EB%AF%B8%EB%8A%94-%ED%95%A8%EC%88%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EA%B3%BC-%EC%9D%BC%EC%B9%98%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%5BEffective-Kotlin-Item-11%5D)
+* [(Effective Kotlin Item 12) Kotlin - 가독성을 높이려면 연산자를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%8F%85%EC%84%B1%EC%9D%84-%EB%86%92%EC%9D%B4%EB%A0%A4%EB%A9%B4-%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-12%5D)
+* [(Effective Kotlin Item 13) Kotlin - 타입 명시를 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%83%80%EC%9E%85-%EB%AA%85%EC%8B%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-13%5D)
+* [(Effective Kotlin Item 14) Kotlin - 리시버를 명시적으로 참조하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%A6%AC%EC%8B%9C%EB%B2%84%EB%A5%BC-%EB%AA%85%EC%8B%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-14%5D)
+* [(Effective Kotlin Item 15) Kotlin - 프로퍼티는 동작이 아닌 상태를 나타내야 한다](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EB%8A%94-%EB%8F%99%EC%9E%91%EC%9D%B4-%EC%95%84%EB%8B%8C-%EC%83%81%ED%83%9C%EB%A5%BC-%EB%82%98%ED%83%80%EB%82%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%5BEffective-Kotlin-Item-15%5D)
+* [(Effective Kotlin Item 16) Kotlin - Unit?을 반환이나 연산에 사용하지 말라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-Unit%3F%EC%9D%84-%EB%B0%98%ED%99%98%EC%9D%B4%EB%82%98-%EC%97%B0%EC%82%B0%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Kotlin-Item-16%5D)
+* [(Effective Kotlin Item 17) Kotlin - 이름 있는 인수 사용을 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%B4%EB%A6%84-%EC%9E%88%EB%8A%94-%EC%9D%B8%EC%88%98-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-17%5D)
+* [(Effective Kotlin Item 18) Kotlin - 코딩 컨벤션을 준수하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98%EC%9D%84-%EC%A4%80%EC%88%98%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-18%5D)
+* [(Effective Kotlin Item 19) Kotlin - knowledge를 반복하지 말라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-knowledge%EB%A5%BC-%EB%B0%98%EB%B3%B5%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Kotlin-Item-19%5D)
+* [(Effective Kotlin Item 20) Kotlin - 일반적인 알고리즘을 반복하지 말라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%98%EC%A7%80-%EB%A7%90%EB%9D%BC%5BEffective-Kotlin-Item-20%5D)
+* [(Effective Kotlin Item 21) Kotlin - 일반적인 알고리즘을 구현할 때 제네릭을 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0-%EB%95%8C-%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-21%5D)
+* [(Effective Kotlin Item 22) Kotlin - 타입 매개변수의 섀도잉을 피하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%83%80%EC%9E%85-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%9D%98-%EC%84%80%EB%8F%84%EC%9E%89%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-22%5D)
+* [(Effective Kotlin Item 23) Kotlin - 제네릭 타입에 변성 한정자 사용을 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EC%97%90-%EB%B3%80%EC%84%B1-%ED%95%9C%EC%A0%95%EC%9E%90-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-23%5D)
+* [(Effective Kotlin Item 24) Kotlin - 공통 모듈을 추출해서 여러 플랫폼에서 재사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%93%88%EC%9D%84-%EC%B6%94%EC%B6%9C%ED%95%B4%EC%84%9C-%EC%97%AC%EB%9F%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%90%EC%84%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-24%5D)
+* [(Effective Kotlin Item 25) Kotlin - 각각의 함수는 하나의 추상화 수준으로 작성하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%81%EA%B0%81%EC%9D%98-%ED%95%A8%EC%88%98%EB%8A%94-%ED%95%98%EB%82%98%EC%9D%98-%EC%B6%94%EC%83%81%ED%99%94-%EC%88%98%EC%A4%80%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-25%5D)
+* [(Effective Kotlin Item 26) Kotlin - 변경으로부터 코드를 보호하려면 추상화를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%80%EA%B2%BD%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B3%B4%ED%98%B8%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%B6%94%EC%83%81%ED%99%94%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-26%5D)
+* [(Effective Kotlin Item 27) Kotlin - API 안정성을 명시하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-API-%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84-%EB%AA%85%EC%8B%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-27%5D)
+* [(Effective Kotlin Item 28) Kotlin - 외부 API를 래핑하는 것을 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%99%B8%EB%B6%80-API%EB%A5%BC-%EB%9E%98%ED%95%91%ED%95%98%EB%8A%94-%EA%B2%83%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-28%5D)
+* [(Effective Kotlin Item 29) Kotlin - 가시성을 최소화하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EC%8B%9C%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-29%5D)
+* [(Effective Kotlin Item 30) Kotlin - 문서로 규약을 정의하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%AC%B8%EC%84%9C%EB%A1%9C-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-30%5D)
+* [(Effective Kotlin Item 31) Kotlin - 추상화 규약을 준수하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%B6%94%EC%83%81%ED%99%94-%EA%B7%9C%EC%95%BD%EC%9D%84-%EC%A4%80%EC%88%98%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-31%5D)
+* [(Effective Kotlin Item 32) Kotlin - 보조 생성자 대신 팩토리 함수를 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%B4%EC%A1%B0-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%95%A8%EC%88%98%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-32%5D)
+* [(Effective Kotlin Item 33) Kotlin - 이름 있는 선택적 인수를 갖는 기본 생성자 사용을 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%B4%EB%A6%84-%EC%9E%88%EB%8A%94-%EC%84%A0%ED%83%9D%EC%A0%81-%EC%9D%B8%EC%88%98%EB%A5%BC-%EA%B0%96%EB%8A%94-%EA%B8%B0%EB%B3%B8-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%82%AC%EC%9A%A9%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-33%5D)
+* [(Effective Kotlin Item 34) Kotlin - 복잡한 객체 생성을 위해 DSL 정의를 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%B4-DSL-%EC%A0%95%EC%9D%98%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-34%5D)
+* [(Effective Kotlin Item 35) Kotlin - 의존성 주입을 고려하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-35%5D)
+* [(Effective Kotlin Item 36) Kotlin - 상속보다 합성을 선호하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4-%ED%95%A9%EC%84%B1%EC%9D%84-%EC%84%A0%ED%98%B8%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-36%5D)
+* [(Effective Kotlin Item 37) Kotlin - 데이터 묶음을 표현할 때 data 한정자를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B6%EC%9D%8C%EC%9D%84-%ED%91%9C%ED%98%84%ED%95%A0-%EB%95%8C-data-%ED%95%9C%EC%A0%95%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-37%5D)
+* [(Effective Kotlin Item 38) Kotlin - 연산과 행동을 전달하려면 함수 타입이나 함수형 인터페이스를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EA%B3%BC-%ED%96%89%EB%8F%99%EC%9D%84-%EC%A0%84%EB%8B%AC%ED%95%98%EB%A0%A4%EB%A9%B4-%ED%95%A8%EC%88%98-%ED%83%80%EC%9E%85%EC%9D%B4%EB%82%98-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-38%5D)
+* [(Effective Kotlin Item 39) Kotlin - 제한된 계층구조를 표현하기 위해 sealed 클래스와 sealed 인터페이스를 사용하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%ED%95%9C%EB%90%9C-%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC-%ED%91%9C%ED%98%84%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%B4-sealed-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-sealed-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-39%5D)
+* [(Effective Kotlin Item 40) Kotlin - 태그 클래스 대신 클래스 계층구조를 선호하라]
+* [(Effective Kotlin Item 41) Kotlin - 열거형 클래스를 사용해서 값 목록을 나타내라]
+* [(Effective Kotlin Item 42) Kotlin - equals의 규약을 준수하라]
+* [(Effective Kotlin Item 43) Kotlin - hashCode의 규약을 준수하라]
+* [(Effective Kotlin Item 44) Kotlin - compareTo의 규약을 준수하라]
+* [(Effective Kotlin Item 45) Kotlin - API의 필수적이지 않은 부분을 확장으로 추출하는 것을 고려하라]
+* [(Effective Kotlin Item 46) Kotlin - 멤버 확장 함수를 피하라]
+
+#### 📖 Kotlin Academy - 핵심편
+
+* [(Effective Kotlin Item 3) Kotlin - variable](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
+* [(Effective Kotlin Item 4) Kotlin - primitive types, literals, and operations](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
+* [(Effective Kotlin Item 5) Kotlin - control Flow: if, when, try, and while](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-Kotlin%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%5BEffective-Kotlin-Item-5%5D)
+* [(Effective Kotlin Item 6) Kotlin - function](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%95%A8%EC%88%98%5BEffective-Kotlin-Item-6%5D)
+* [(Effective Kotlin Item 7) Kotlin - for](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-for%EB%AC%B8%EC%9D%98-%EA%B0%95%EB%A0%A5%ED%95%A8%5BEffective-Kotlin-Item-7%5D)
+* [(Effective Kotlin Item 8) Kotlin - Null Safety and Nullable Types](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%84%90-%EA%B0%80%EB%8A%A5%EC%84%B1%5BEffective-Kotlin-Item-8%5D)
+* [(Effective Kotlin Item 9) Kotlin - Class](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-9%5D)
+* [(Effective Kotlin Item 10) Kotlin - Extend](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%83%81%EC%86%8D%5BEffective-Kotlin-Item-10%5D)
+* [(Effective Kotlin Item 11) Kotlin - Data Class](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-11%5D)
+* [(Effective Kotlin Item 12) Kotlin - Object](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%9D%EC%B2%B4%5BEffective-Kotlin-Item-12%5D)
+* [(Effective Kotlin Item 13) Kotlin ‐ Exception](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%98%88%EC%99%B8%5BEffective-Kotlin-Item-13%5D)
+* [(Effective Kotlin Item 14) Kotlin - Enum Classes](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%97%B4%EA%B1%B0%ED%98%95-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-14%5D)
+* [(Effective Kotlin Item 15) Kotlin - Sealed Classes and Interfaces](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B4%89%EC%9D%B8%EB%90%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%5BEffective-Kotlin-Item-15%5D)
+* [(Effective Kotlin Item 16) Kotlin - Annotation Classes](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98-%ED%81%B4%EB%9E%98%EC%8A%A4%5BEffective-Kotlin-Item-16%5D)
+* [(Effective Kotlin Item 17) Kotlin - Extensions](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%ED%99%95%EC%9E%A5%5BEffective-Kotlin-Item-17%5D)
+* [(Effective Kotlin Item 18) Kotlin - Collections](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%BB%AC%EB%A0%89%EC%85%98%5BEffective-Kotlin-Item-18%5D)
+* [(Effective Kotlin Item 19) Kotlin - Operator Overloading](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%5BEffective-Kotlin-Item-19%5D)
+* [(Effective Kotlin Item 20) Kotlin - The Beauty of the Type System](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%98%EB%AF%B8%5BEffective-Kotlin-Item-20%5D)
+* [(Effective Kotlin Item 21) Kotlin - Generic](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%5BEffective-Kotlin-Item-21%5D)
+
+#### 📖 스프링으로 시작하는 리액티브 프로그래밍
+
+* [Reactive Programming - Reactive Streams](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Reactive-Streams)
+* [Reactive Programming - Blocking I/O & Non-Blocking I/O](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Blocking-IO-&-Non%E2%80%90Blocking-IO)
+* [Reactive Programming - Reactor Outline](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Reactor-Outline)
+* [Reactive Programming - Marble Diagram](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Marble-Diagram)
+* [Reactive Programming - Cold Sequence & Hot Sequence](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Cold-Sequence-&-Hot-Sequence)
+* [Reactive Programming - Backpressure]
+* [Reactive Programming - Sinks]
+* [Reactive Programming - Scheduler]
+* [Reactive Programming - Context]
+* [Reactive Programming - Debugging]
+* [Reactive Programming - Testing]
+* [Reactive Programming - Operators]
+* [Reactive Programming - Spring Webflux]
+* [Reactive Programming - Annotation Based Controller]
+* [Reactive Programming - Functional Endpoint]
+* [Reactive Programming - Spring Data R2DBC]
+* [Reactive Programming - Exception Handling]
+* [Reactive Programming - WebClient]
+* [Reactive Programming - Reactive Streaming Data Processing]
+
+#### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1
+
+* [사용자 수에 따른 규모 확장성](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B7%9C%EB%AA%A8-%ED%99%95%EC%9E%A5%EC%84%B1)
+* [처리율 제한 장치의 설계](https://github.com/woojin-playground/Backend-PlayGround/wiki/%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98%EC%9D%98-%EC%84%A4%EA%B3%84)
+
+#### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2
+
+#### 📖 Clean Code
+
+* [(Clean Code 2) Clean Code - 의미 있는 이름⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84%5BClean-Code-2%5D)
+* [(Clean Code 3) Clean Code - 함수](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%95%A8%EC%88%98%5BClean-Code-3%5D)
+* [(Clean Code 4) Clean Code - 주석](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%A3%BC%EC%84%9D%5BClean-Code-4%5D)
+* [(Clean Code 5) Clean Code - 형식 맞추기](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%98%95%EC%8B%9D-%EB%A7%9E%EC%B6%94%EA%B8%B0%5BClean-Code-5%5D)
+* [(Clean Code 6) Clean Code - 객체와 자료구조⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5BClean-Code-6%5D)
+* [(Clean Code 7) Clean Code - 오류 처리⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%5BClean-Code-7%5D)
+* [(Clean Code 8) Clean Code - 경계⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B2%BD%EA%B3%84%5BClean-Code-8%5D)
+* [(Clean Code 9) Clean Code - 단위 테스트⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%5BClean-Code-9%5D)
+* [(Clean Code 10) Clean Code - 클래스⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BClean-Code-10%5D)
+
+#### 📖 리팩토링 2판
+
+#### 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식
+
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 느려진 서비스, 어디부터 봐야 할까⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 성능을 좌우하는 DB 설계와 쿼리⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 외부 연동이 문제일 때 살펴봐야 할 것들⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 비동기 연동, 언제 어떻게 써야 할까⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ IO 병목, 어떻게 해결하지⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 실무에서 꼭 필요한 보안 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 자주 쓰는 서버 구조와 설계 패턴⭐](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 처음 해보는 성능 테스트를 위한 기본 정리⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%B2%98%EC%9D%8C-%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A6%AC)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ NoSQL 이해하기](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-NoSQL-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ DB로 분산 잠금 구현하기](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-DB%EB%A1%9C-%EB%B6%84%EC%82%B0-%EC%9E%A0%EA%B8%88-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
+#### 📖 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴
+
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 객체 지향]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 다형성과 추상 타입]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 재사용: 상속보단 조립]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 설계 원칙: SOLID]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - DI(Dependency Injection)와 서비스 로케이터]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴]
+
+#### 📖 Spring AI
+
+* [LLM 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/LLM-%EA%B8%B0%EC%B4%88)
+* [Spring AI Introduction](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Introduction)
+* [Spring AI Component](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Component)
+* [RAG 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/RAG-%EA%B8%B0%EC%B4%88)
