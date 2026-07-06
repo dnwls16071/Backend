@@ -669,12 +669,12 @@
 
 #### 📖 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴
 
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 객체 지향]
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 다형성과 추상 타입]
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 재사용: 상속보단 조립]
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 설계 원칙: SOLID]
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - DI(Dependency Injection)와 서비스 로케이터]
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴]
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 객체 지향⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 다형성과 추상 타입⭐](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 재사용: 상속보단 조립](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%9E%AC%EC%82%AC%EC%9A%A9:-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A8-%EC%A1%B0%EB%A6%BD)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 설계 원칙: SOLID](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99:-SOLID)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - DI(Dependency Injection)와 서비스 로케이터](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-DI(Dependency-Injection)%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴⭐](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%A3%BC%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
 
 #### 📖 Spring AI
 
