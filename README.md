@@ -448,6 +448,15 @@
 * [Test - A Guide to Effective Mocking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mock%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8)
 * [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
 
+#### 📖 Spring AI
+
+* [LLM 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/LLM-%EA%B8%B0%EC%B4%88)
+* [Spring AI Introduction](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Introduction)
+* [Spring AI Component](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Component)
+* [RAG 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/RAG-%EA%B8%B0%EC%B4%88)
+
+#### 📖 TDD(Test-Driven-Development)
+
 #### 📖 Effective Java 3/E
 
 * [(Effective Java Item 1) Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
@@ -675,10 +684,3 @@
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 설계 원칙: SOLID](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99:-SOLID)
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - DI(Dependency Injection)와 서비스 로케이터](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-DI(Dependency-Injection)%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0)
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴⭐](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%A3%BC%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
-
-#### 📖 Spring AI
-
-* [LLM 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/LLM-%EA%B8%B0%EC%B4%88)
-* [Spring AI Introduction](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Introduction)
-* [Spring AI Component](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Component)
-* [RAG 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/RAG-%EA%B8%B0%EC%B4%88)
