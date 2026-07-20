@@ -1,7 +1,17 @@
+#### 📖 Code Philosophy
+
+* [Code - Abstraction]
+* [Code - Logic and the Flow of Thought]
+* [Code - The Object-Oriented Programming Paradigm]
+* [Code - Applying Object-Oriented Programming]
+* [Code - Refining Your Code]
+* [Code - Refactoring Practice]
+* [Code - Conditions for Better Memory]
+
 #### 📖 Java
 
 * [Java - Class](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-Class)
-* [Java - Java Memory⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
+* [Java - Java Memory](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0)
 * [Java ‐ Solving Concurrency Issues with Synchronized](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-Synchronized%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 * [Java - synchronized](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EB%8F%99%EA%B8%B0%ED%99%94-synchronized)
 * [Java ‐ Instance Variable & Local Variable vs final](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%B3%80%EC%88%98-vs-%EC%A7%80%EC%97%AD-%EB%B3%80%EC%88%98-vs-final)
@@ -43,7 +53,7 @@
 * [Java - Default Method](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Java-%E2%80%90-%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A9%94%EC%84%9C%EB%93%9C)
 * [Java - Parallel Stream](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%B3%91%EB%A0%AC-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 * [Java - Functional Programming](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-* [Java - JVM & GC & SOLID⭐](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%9B%90%EC%B9%99)
+* [Java - JVM & GC & SOLID](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%9E%90%EB%B0%94-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%9B%90%EC%B9%99)
 * [Java - Data Storage and Memory Allocation: Primitive vs. Reference](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-%EB%B0%A9%EC%8B%9D%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%EB%B3%B8%ED%98%95%EA%B3%BC-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%B9%84%EA%B5%90-&-%EC%9E%90%EB%B0%94-%ED%98%B8%EC%B6%9C-%EB%B0%A9%EC%8B%9D)
 * [Java ‐ Static Keyword: Efficient Resource Management at the Class Level](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A0%88%EB%B2%A8-%EC%9E%90%EC%9B%90%EC%9D%98-%ED%9A%A8%EC%9C%A8%EC%A0%81-%ED%99%9C%EC%9A%A9%EC%9D%84-%EC%9C%84%ED%95%9C-static-%ED%82%A4%EC%9B%8C%EB%93%9C)
 * [Java ‐ OOP](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-OOP)
@@ -53,7 +63,8 @@
 * [Java ‐ Java 8+](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94:-Java-8)
 * [Java ‐ Java Application Performance Tuning](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Java-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5-%ED%8A%9C%EB%8B%9D)
 * [Java - CAS](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-CAS)
-* [Java - Virtual Thread⭐](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Virtual-Thread)
+* [Java - Virtual Thread](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-Virtual-Thread)
+* [Java - Benchmark](https://github.com/thought-corner/backend-roadmap/wiki/Java-%E2%80%90-Benchmark)
 
 #### 📖 Kotlin
 
@@ -106,16 +117,16 @@
 * [Spring - API Exception Handling](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC)
 * [Spring - Spring Type Converter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%83%80%EC%9E%85-%EC%BB%A8%EB%B2%84%ED%84%B0)
 * [Spring - File Upload](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)
-* [Spring - Connection Pool & DataSource⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4)
-* [Spring - Transaction⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+* [Spring - Connection Pool & DataSource](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4)
+* [Spring - Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
 * [Spring ‐ Spring Exception Abstraction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%98%88%EC%99%B8-%EC%B6%94%EC%83%81%ED%99%94)
 * [Spring - Database Access](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Database-Access)
-* [Spring ‐ Spring Transaction⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%ED%95%B4)
-* [Spring ‐ Spring Transaction Propagation⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8C)
+* [Spring ‐ Spring Transaction](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%9D%B4%ED%95%B4)
+* [Spring ‐ Spring Transaction Propagation](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A0%84%ED%8C%8C)
 * [Spring ‐ Thread Local](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-Thread-Local(%EC%93%B0%EB%A0%88%EB%93%9C-%EB%A1%9C%EC%BB%AC))
 * [Spring ‐ Template Method Pattern & Callback Pattern](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4)
 * [Spring ‐ Dynamic Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring--%E2%80%90-%EB%8F%99%EC%A0%81-%ED%94%84%EB%A1%9D%EC%8B%9C-%EA%B8%B0%EC%88%A0)
-* [Spring ‐ Spring Proxy⭐](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9D%EC%8B%9C)
+* [Spring ‐ Spring Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9D%EC%8B%9C)
 * [Spring ‐ Bean Processor](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EB%B9%88-%ED%9B%84%EC%B2%98%EB%A6%AC%EA%B8%B0)
 * [Spring ‐ @Aspect AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-@Aspect-AOP)
 * [Spring ‐ Spring AOP](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-%E2%80%90-%EC%8A%A4%ED%94%84%EB%A7%81-AOP)
@@ -127,7 +138,7 @@
 
 #### 📖 Spring Security
 
-* [Spring Security - Initialization⭐](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%84%A4%EC%A0%95)
+* [Spring Security - Initialization](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%B4%88%EA%B8%B0%ED%99%94-%EC%84%A4%EC%A0%95)
 * [Spring Security - Authentication Process](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9D%B4%ED%95%B4)
 * [Spring Security - Authentication Architecture](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4)
 * [Spring Security - Authentication Status Persistence Processing Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B8%EC%A6%9D-%EC%83%81%ED%83%9C-%EC%98%81%EC%86%8D%EC%84%B1-%EC%B2%98%EB%A6%AC-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98)
@@ -218,24 +229,29 @@
 #### 📖 MySQL
 
 * [MySQL ‐ Solving Concurrency Problems using Database-Level Locking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Spring-Boot-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+* [MySQL - Multi Column Index](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Multi-Column-Index)
+* [MySQL - Covering Index & RDB vs ElasticSearch Diff](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-Covering-Index-&-RDB-vs-ElasticSearch-Index-Diff)
+* [MySQL - ORDER BY](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-ORDER-BY)
+* [MySQL - INSERT](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-INSERT)
+* [MySQL - AUTO_INCREMENT_LOCK](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-AUTO_INCREMENT_LOCK)
+* [MySQL - Index Dive Using In Query](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-Index-Dive-Using-In-Query)
+* [MySQL - Why don't use prefix index in default](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-Why-don't-use-prefix-index-in-default)
+* [MySQL - MySQL LockType](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-LockType)
+* [MySQL - DeadLock Case](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-DeadLock-Case)
+* [MySQL - NoOffset For Query Tuning](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-NoOffset-For-Query-Tuning)
+* [MySQL ‐ Skip Locked for Session](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-Skip-Locked-for-Session)
 * [MySQL - Checking DB Metrics with SQL Queries](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Checking-DB-Metrics-with-SQL-Queries)
 * [MySQL - Data Modeling for Practical Service Development](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Data-Modeling-for-Practical-Service-Development)
 * [MySQL - Basic CRUD in MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Basic-CRUD-in-MySQL)
+* [MySQL ‐ MySQL Internal Architecture and Storage Engines](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-MySQL-Internal-Architecture-and-Storage-Engines)
 * [MySQL - MySQL Horizontal Scaling](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Horizontal-Scaling)
+* [MySQL ‐ Operational‐Level System Design](https://github.com/thought-corner/backend-roadmap/wiki/MySQL-%E2%80%90-Operational%E2%80%90Level-System-Design)
 * [MySQL - MySQL Fundamentals](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-Fundamentals)
 * [MySQL - Why You Should Use MySQL: JOIN](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Why-You-Should-Use-MySQL:-JOIN)
 * [MySQL - Must-Know SQL Anti-Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Must%E2%80%90Know-SQL-Anti%E2%80%90Patterns)
 * [MySQL - Learning Data Modeling Through Practical Examples](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Learning-Data-Modeling-Through-Practical-Examples)
 * [MySQL - Foreign Key & Strategic Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Foreign-Key-&-Strategic-Patterns)
 * [MySQL - Advanced Topics in MySQL](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Advanced-Topics-in-MySQL)
-* [MySQL - Multi Column Index](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Multi-Column-Index)
-* [MySQL - Covering Index](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-Covering-Index)
-* [MySQL - ORDER BY](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-ORDER-BY)
-* [MySQL - INSERT](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-INSERT)
-* [MySQL - AUTO_INCREMENT_LOCK](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-AUTO_INCREMENT_LOCK)
-* [MySQL - MySQL LockType](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-MySQL-LockType)
-* [MySQL - DeadLock Case](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-DeadLock-Case)
-* [MySQL - NoOffset For Query Tuning](https://github.com/woojin-playground/Backend-PlayGround/wiki/MySQL-%E2%80%90-NoOffset-For-Query-Tuning)
 
 #### 📖 Redis
 
@@ -289,8 +305,9 @@
 
 #### 📖 MSA
 
-* [MicroService Architecture - DeComposition Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-DeComposition-Patterns)
-* [MicroService Architecture - Service Communications Patterns](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-Service-Communications-Patterns)
+* [MicroService Architecture - Service Communications Patterns(RESTful API)](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/MicroService-Design-Pattern-%E2%80%90-Service-Communications-Patterns)
+* [MicroService Architecture - Service Communications Patterns(GraphQL)](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Service-Communications-Patterns(GraphQL))
+* [MicroService Architecture - Service Communications Patterns(gRPC)](https://github.com/thought-corner/backend-roadmap/wiki/MicroService-Architecture-%E2%80%90-Service-Communications-Patterns(gRPC))
 * [MicroService Architecture - API Gateway Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-API-Gateway-Patterns)
 * [MicroService Architecture - Asynchronous Communications Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Asynchronous-Communications-Patterns)
 * [MicroService Architecture - Data Management Patterns](https://github.com/woojin-playground/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-Data-Management-Patterns)
@@ -406,9 +423,16 @@
 * [Kubernetes - Logging]
 * [Kubernetes - Deployment using Amazon EKS](https://github.com/thought-corner/Backend-PlayGround/wiki/Kubernetes-%E2%80%90-Deployment-using-Amazon-EKS)
 
-#### 📖 CI/CD
+#### 📖 Github Actions
 
 * [Github Actions - Github Actions](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Github-Actions-%E2%80%90-Github-Actions-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC)
+
+#### 📖 Jenkins
+
+* [Jenkins - Jenkins Fundamentals & Environment Setup](https://github.com/thought-corner/backend-roadmap/wiki/Jenkins-%E2%80%90-Jenkins-Fundamentals-&-Environment-Setup)
+* [Jenkins - Jenkins Jobs: Freestyle & Pipeline](https://github.com/thought-corner/backend-roadmap/wiki/Jenkins-%E2%80%90-Jenkins-Jobs:-Freestyle-&-Pipeline)
+* [Jenkins - Jenkins Pipeline Project](https://github.com/thought-corner/backend-roadmap/wiki/Jenkins-%E2%80%90-Jenkins-Pipeline-Project)
+* [Jenkins - Implementing Continuous Integration(CI) with Jenkins](https://github.com/thought-corner/backend-roadmap/wiki/Implementing-Continuous-Integration(CI)-with-Jenkins)
 
 #### 📖 Nginx
 
@@ -431,19 +455,20 @@
 * [Monitoring - Building a Monitoring System with Spring Boot Actuator]
 * [Monitoring - Server Monitoring with Prometheus and Grafana with Discord Alerts]
 
-#### 📖 Test
+#### 📖 Test(feat. Load Testing)
 
-* [Test - Load Testing Fundamentals](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Test-%E2%80%90-Stress-Test(%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8))
-* [Test - Diagnosing Bottlenecks via Load Testing]
-* [Test - Performance Tuning: Resolving Bottlenecks]
+* [Test - Load Testing Fundamentals]
+* [Test - Identifying Bottlenecks with Load Testing]
+* [Test - Resolving Bottlenecks and Improving Performance]
+
+#### 📖 Test(feat. Java)
+
 * [Test - JUnit5](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JUnit5)
 * [Test - Mockito](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mockito)
 * [Test - TestContainers](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-TestContainer)
 * [Test - JMeter](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-JMeter)
 * [Test - Chaos Monkey](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Chaos-Monkey)
-* [Test - ArchUnit]
-* [Test - Unit Testing Essentials]
-* [Test - TDD]
+* [Test - ArchUnit](https://github.com/thought-corner/backend-roadmap/wiki/Test-%E2%80%90-ArchUnit)
 * [Test - Testing with Spring & JPA]
 * [Test - A Guide to Effective Mocking](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-Mock%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8)
 * [Test - Appendix: Tips for Better Testing](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Test-%E2%80%90-%EB%8D%94-%EB%82%98%EC%9D%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-Appendix)
@@ -455,9 +480,46 @@
 * [Spring AI Component](https://github.com/thought-corner/Backend-PlayGround/wiki/Spring-AI-Component)
 * [RAG 기초](https://github.com/thought-corner/Backend-PlayGround/wiki/RAG-%EA%B8%B0%EC%B4%88)
 
+#### 📖 gRPC
+
+* [gRPC - Writing .proto Files with Protocol Buffers]
+* [gRPC - Various Communication Patterns in gRPC]
+* [gRPC - gRPC Optimization Techniques and Advanced Features]
+
 #### 📖 TDD(Test-Driven-Development)
 
-#### 📖 Effective Java 3/E
+* [TDD - Introduction to TDD](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Introduction-to-TDD)
+* [TDD - Iterating with TDD](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Iterating-with-TDD)
+* [TDD - Managing System Data](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Managing-System-Data)
+* [TDD - Handling Unexpected Test Failures](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Handling-Unexpected-Test-Failures)
+* [TDD - Abstraction & Reusability](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Abstraction-&-Reusability)
+* [TDD - Building a Testing DSL](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Building-a-Testing-DSL)
+* [TDD - Managing Test Context](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Managing-Test-Context)
+* [TDD - Driving Input Code with Output Tests](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Driving-Input-Code-with-Output-Tests)
+* [TDD - Pagination Test](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Pagination-Test)
+
+
+#### 📖 ElasticSearch
+
+* [ElasticSearch - Search Fundamentals & How Search Works]
+* [ElasticSearch - Korean-Optimized Search]
+* [ElasticSearch - Mapping & Data Types]
+* [ElasticSearch - Common Search Features]
+* [ElasticSearch - Building a Product Search Engine with Elasticsearch]
+* [ElasticSearch - Deploying Elasticsearch with Elastic Cloud]
+* [ElasticSearch - Managing Documents]
+* [ElasticSearch - Analysis & Mapping]
+* [ElasticSearch - Search Fundamentals]
+* [ElasticSearch - Query Joins]
+* [ElasticSearch - Processing Search Results]
+* [ElasticSearch - Aggregations]
+* [ElasticSearch - Tips for Improving Search Results]
+* [ElasticSearch - Elasticsearch Clients]
+* [ElasticSearch - Understanding How Elasticsearch Works]
+* [ElasticSearch - Monitoring Elasticsearch]
+* [ElasticSearch - Elasticsearch Troubleshooting]
+
+#### 📖 [Effective Java 3/E](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003160832)
 
 * [(Effective Java Item 1) Java ‐ 생성자 대신 정적 팩토리 메서드를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-1%5D)
 * [(Effective Java Item 2) Java - 생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/dnwls16071/Backend_Summary/wiki/Java-%E2%80%90-%EC%83%9D%EC%84%B1%EC%9E%90%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80-%EB%A7%8E%EB%8B%A4%EB%A9%B4-%EB%B9%8C%EB%8D%94%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC%5BEffective-Java-Item-2%5D)
@@ -550,7 +612,7 @@
 * [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
 * [(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
 
-#### 📖 Kotlin Academy - Effective Kotlin
+#### 📖 [Kotlin Academy - Effective Kotlin](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011546361)
 
 * [(Effective Kotlin Item 1) Kotlin - 가변성을 제한하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B0%80%EB%B3%80%EC%84%B1%EC%9D%84-%EC%A0%9C%ED%95%9C%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-1%5D)
 * [(Effective Kotlin Item 2) Kotlin - 임계 영역을 제거하라](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%9E%84%EA%B3%84-%EC%98%81%EC%97%AD%EC%9D%84-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC%5BEffective-Kotlin-Item-2%5D)
@@ -599,7 +661,7 @@
 * [(Effective Kotlin Item 45) Kotlin - API의 필수적이지 않은 부분을 확장으로 추출하는 것을 고려하라]
 * [(Effective Kotlin Item 46) Kotlin - 멤버 확장 함수를 피하라]
 
-#### 📖 Kotlin Academy - 핵심편
+#### 📖 [Kotlin Academy - 핵심편](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000008439557)
 
 * [(Effective Kotlin Item 3) Kotlin - variable](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EB%B3%80%EC%88%98%5BEffective-Kotlin-Item-3%5D)
 * [(Effective Kotlin Item 4) Kotlin - primitive types, literals, and operations](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85,-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85%EC%9D%98-%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC-%EC%97%B0%EC%82%B0%5BEffective-Kotlin-Item-4%5D)
@@ -621,7 +683,7 @@
 * [(Effective Kotlin Item 20) Kotlin - The Beauty of the Type System](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%98%EB%AF%B8%5BEffective-Kotlin-Item-20%5D)
 * [(Effective Kotlin Item 21) Kotlin - Generic](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%5BEffective-Kotlin-Item-21%5D)
 
-#### 📖 스프링으로 시작하는 리액티브 프로그래밍
+#### 📖 [스프링으로 시작하는 리액티브 프로그래밍](https://product.kyobobook.co.kr/detail/S000201399476)
 
 * [Reactive Programming - Reactive Streams](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Reactive-Streams)
 * [Reactive Programming - Blocking I/O & Non-Blocking I/O](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Blocking-IO-&-Non%E2%80%90Blocking-IO)
@@ -643,44 +705,59 @@
 * [Reactive Programming - WebClient]
 * [Reactive Programming - Reactive Streaming Data Processing]
 
-#### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 1
+#### 📖 [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1](https://product.kyobobook.co.kr/detail/S000001033116)
 
-#### 📖 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 사용자 수에 따른 규모 확장성](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-1-%E2%80%90-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B7%9C%EB%AA%A8-%ED%99%95%EC%9E%A5%EC%84%B1)
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 개략적인 규모 추정](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-1-%E2%80%90-%EA%B0%9C%EB%9E%B5%EC%A0%81%EC%9D%B8-%EA%B7%9C%EB%AA%A8-%EC%B6%94%EC%A0%95)
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 처리율 제한 장치의 설계](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-1-%E2%80%90-%EC%B2%98%EB%A6%AC%EC%9C%A8-%EC%A0%9C%ED%95%9C-%EC%9E%A5%EC%B9%98%EC%9D%98-%EC%84%A4%EA%B3%84)
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 안정 해시 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 키-값 저장소 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 분산 시스템을 위한 유일 ID 생성기 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - URL 단축기 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 웹 크롤러 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 알림 시스템 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 뉴스 피드 시스템 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 채팅 시스템 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 검색어 자동완성 시스템 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 유튜브 설계]
+* [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 구글 드라이브 설계]
 
-#### 📖 Clean Code
+#### 📖 [가상 면접 사례로 배우는 대규모 시스템 설계 기초 2](https://product.kyobobook.co.kr/detail/S000211656186)
 
-* [(Clean Code 2) Clean Code - 의미 있는 이름⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84%5BClean-Code-2%5D)
+#### 📖 [Clean Code](https://product.kyobobook.co.kr/detail/S000001032980)
+
+* [(Clean Code 2) Clean Code - 의미 있는 이름](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84%5BClean-Code-2%5D)
 * [(Clean Code 3) Clean Code - 함수](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%95%A8%EC%88%98%5BClean-Code-3%5D)
 * [(Clean Code 4) Clean Code - 주석](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%A3%BC%EC%84%9D%5BClean-Code-4%5D)
 * [(Clean Code 5) Clean Code - 형식 맞추기](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%98%95%EC%8B%9D-%EB%A7%9E%EC%B6%94%EA%B8%B0%5BClean-Code-5%5D)
-* [(Clean Code 6) Clean Code - 객체와 자료구조⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5BClean-Code-6%5D)
-* [(Clean Code 7) Clean Code - 오류 처리⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%5BClean-Code-7%5D)
-* [(Clean Code 8) Clean Code - 경계⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B2%BD%EA%B3%84%5BClean-Code-8%5D)
-* [(Clean Code 9) Clean Code - 단위 테스트⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%5BClean-Code-9%5D)
-* [(Clean Code 10) Clean Code - 클래스⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BClean-Code-10%5D)
+* [(Clean Code 6) Clean Code - 객체와 자료구조](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B0%9D%EC%B2%B4%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5BClean-Code-6%5D)
+* [(Clean Code 7) Clean Code - 오류 처리](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%5BClean-Code-7%5D)
+* [(Clean Code 8) Clean Code - 경계](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EA%B2%BD%EA%B3%84%5BClean-Code-8%5D)
+* [(Clean Code 9) Clean Code - 단위 테스트](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%5BClean-Code-9%5D)
+* [(Clean Code 10) Clean Code - 클래스](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%ED%81%B4%EB%9E%98%EC%8A%A4%5BClean-Code-10%5D)
 
-#### 📖 리팩토링 2판
+#### 📖 [리팩토링 2판](https://product.kyobobook.co.kr/detail/S000001810241)
 
-#### 📖 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식
+#### 📖 [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식](https://product.kyobobook.co.kr/detail/S000216376461)
 
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 느려진 서비스, 어디부터 봐야 할까⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 성능을 좌우하는 DB 설계와 쿼리⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 외부 연동이 문제일 때 살펴봐야 할 것들⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 비동기 연동, 언제 어떻게 써야 할까⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ IO 병목, 어떻게 해결하지⭐](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 실무에서 꼭 필요한 보안 지식](https://github.com/dnwls16071/Backend_Summary/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 모르면 답답해지는 네트워크 기초](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 자주 쓰는 서버 구조와 설계 패턴⭐](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 처음 해보는 성능 테스트를 위한 기본 정리⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%B2%98%EC%9D%8C-%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A6%AC)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ NoSQL 이해하기](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-NoSQL-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ DB로 분산 잠금 구현하기](https://github.com/thought-corner/Backend-PlayGround/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-DB%EB%A1%9C-%EB%B6%84%EC%82%B0-%EC%9E%A0%EA%B8%88-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 느려진 서비스, 어디부터 봐야 할까](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8A%90%EB%A0%A4%EC%A7%84-%EC%84%9C%EB%B9%84%EC%8A%A4,-%EC%96%B4%EB%94%94%EB%B6%80%ED%84%B0-%EB%B4%90%EC%95%BC-%ED%95%A0%EA%B9%8C)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 성능을 좌우하는 DB 설계와 쿼리](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%A2%8C%EC%9A%B0%ED%95%98%EB%8A%94-DB-%EC%84%A4%EA%B3%84%EC%99%80-%EC%BF%BC%EB%A6%AC)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 외부 연동이 문제일 때 살펴봐야 할 것들](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%99%B8%EB%B6%80-%EC%97%B0%EB%8F%99%EC%9D%B4-%EB%AC%B8%EC%A0%9C%EC%9D%BC-%EB%95%8C-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B2%83%EB%93%A4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 비동기 연동, 언제 어떻게 써야 할까](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%97%B0%EB%8F%99,-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 동시성, 데이터가 꼬이기 전에 잡아야 한다](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1,-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EA%BC%AC%EC%9D%B4%EA%B8%B0-%EC%A0%84%EC%97%90-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%9C%EB%8B%A4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ IO 병목, 어떻게 해결하지](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-IO-%EB%B3%91%EB%AA%A9,-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EC%A7%80)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 실무에서 꼭 필요한 보안 지식](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-%EA%BC%AD-%ED%95%84%EC%9A%94%ED%95%9C-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%8B%9D)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 모르면 답답해지는 네트워크 기초](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EB%AA%A8%EB%A5%B4%EB%A9%B4-%EB%8B%B5%EB%8B%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%B4%88)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 자주 쓰는 서버 구조와 설계 패턴](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8C%A8%ED%84%B4)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ 처음 해보는 성능 테스트를 위한 기본 정리](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-%EC%B2%98%EC%9D%8C-%ED%95%B4%EB%B3%B4%EB%8A%94-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8-%EC%A0%95%EB%A6%AC)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ NoSQL 이해하기](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-NoSQL-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+* [주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 ‐ DB로 분산 잠금 구현하기](https://github.com/thought-corner/backend-roadmap/wiki/%EC%A3%BC%EB%8B%88%EC%96%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%8B%A4%EB%AC%B4-%EC%A7%80%EC%8B%9D-%E2%80%90-DB%EB%A1%9C-%EB%B6%84%EC%82%B0-%EC%9E%A0%EA%B8%88-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
-#### 📖 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴
+#### 📖 [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴](https://product.kyobobook.co.kr/detail/S000001062523)
 
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 객체 지향⭐](https://github.com/thought-corner/Backend-PlayGround/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5)
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 다형성과 추상 타입⭐](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 객체 지향](https://github.com/thought-corner/Backend-PlayGround/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 다형성과 추상 타입](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EC%B6%94%EC%83%81-%ED%83%80%EC%9E%85)
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 재사용: 상속보단 조립](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%9E%AC%EC%82%AC%EC%9A%A9:-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A8-%EC%A1%B0%EB%A6%BD)
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 설계 원칙: SOLID](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99:-SOLID)
 * [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - DI(Dependency Injection)와 서비스 로케이터](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-DI(Dependency-Injection)%EC%99%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A1%9C%EC%BC%80%EC%9D%B4%ED%84%B0)
-* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴⭐](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%A3%BC%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
+* [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴 - 주요 디자인 패턴](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%A0%95%EB%B3%B5%ED%95%B4%EC%95%BC-%ED%95%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5%EA%B3%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-%E2%80%90-%EC%A3%BC%EC%9A%94-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
