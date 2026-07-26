@@ -244,7 +244,6 @@
 * [Redis - Redis Cluster Mode](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Redis-Cluster-Mode)
 * [Redis - Redis Cluster Example](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Redis-%E2%80%90-Docker%EB%A1%9C-Redis-Cluster-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 * [Redis - Redis Data Structure](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-* [Redis - Redis pub/sub & streams](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EB%B0%9C%ED%96%89-&-%EA%B5%AC%EB%8F%85%EA%B3%BC-streams)
 * [Redis - Redis Server](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-Redis-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1)
 * [Redis - Reduce DB write load using Redis](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-DB%EC%97%90-%EA%B0%80%ED%95%B4%EC%A7%80%EB%8A%94-%EC%93%B0%EA%B8%B0-%EC%9E%91%EC%97%85%EC%9D%84-Redis%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 * [Redis - Solving Concurrency Issues (1)](https://github.com/dnwls16071/Backend_Summary/wiki/Redis-%E2%80%90-%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
