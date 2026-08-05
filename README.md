@@ -207,6 +207,20 @@
 * [Database - Inheritance Relationship Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EC%83%81%EC%86%8D-%EA%B4%80%EA%B3%84-%EC%84%A4%EA%B3%84)
 * [Database - Entity-Attribute-Value (EAV) Model](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-%EB%8F%99%EC%A0%81-%EC%84%A4%EA%B3%84(EAV))
 * [Database - JSON Schema Design](https://github.com/Code-Laboratory/Backend-PlayGround/wiki/Database-%E2%80%90-Json-%EC%84%A4%EA%B3%84)
+* [Database - Database Performance and MySQL Architecture](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Database-Performance-and-MySQL-Architecture)
+* [Database - Execution Plans 1 - Mastering EXPLAIN](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Execution-Plans-1-%E2%80%90-Mastering-EXPLAIN)
+* [Database - Execution Plans 2 - Mastering ANALYZE](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Execution-Plans-2-%E2%80%90-Mastering-ANALYZE)
+* [Database - Diagnosing Full Table Scans and Composite Index Basics](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Diagnosing-Full-Table-Scans-and-Composite-Index-Basics)
+* [Database ‐ Index Internal Structures 1 ‐ B-Tree & B+Tree](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Index-Internal-Structures-1-%E2%80%90-Index-Architecture)
+* [Database - Index Internal Structures 2 - Clustered and Secondary Indexes](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Index-Internal-Structures-2-%E2%80%90-Clustered-and-Secondary-Indexes)
+* [Database - Diagnosing Using filesort and Early Termination](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Diagnosing-Using-filesort-and-Early-Termination)
+* [Database - ICP, Covering, and Skip Scans](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-ICP,-Covering,-and-Skip-Scans)
+* [Database - Merge, MRR, New Features, Hints, and Operations]
+* [Database - The Optimizer and Histograms]
+* [Database - Join Optimization]
+* [Database - Diagnosing Join Random Access and Covering Indexes]
+* [Database - Optimizing Sort, Pagination, and Grouping]
+* [Database - Streaming Aggregation and Pre-aggregated Tables]
 
 #### 📖 MySQL🔥
 
@@ -427,6 +441,7 @@
 * [Nginx ‐ Implementing HTTPS with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-HTTPS-%EC%A0%81%EC%9A%A9%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * [Nginx ‐ Backend Deployment via Nginx Reverse Proxy](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9C(Reverse-Proxy)%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC)
 * [Nginx ‐ Load Balancing with Nginx](https://github.com/dnwls16071/Backend_Study_TIL/wiki/Nginx-%E2%80%90-Nginx%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%84%9C)
+* [Nginx - Core Concept](https://github.com/thought-corner/backend-roadmap/wiki/Nginx-%E2%80%90-Core-Concept)
 * [Nginx - Advanced Concept]
 * [Nginx - Advanced Reverse Proxy]
 
@@ -439,8 +454,8 @@
 
 #### 📖 Test(feat. Load Testing)📎
 
-* [Test - Load Testing Fundamentals]
-* [Test - Identifying Bottlenecks with Load Testing]
+* [Test - Load Testing Fundamentals](https://github.com/thought-corner/backend-roadmap/wiki/Test-%E2%80%90-Stress-Test(%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8))
+* [Test - Identifying Bottlenecks with Load Testing](https://github.com/thought-corner/backend-roadmap/wiki/Test-%E2%80%90-%EB%B3%91%EB%AA%A9-%EC%A7%80%EC%A0%90(Bottleneck-Point))
 * [Test - Resolving Bottlenecks and Improving Performance]
 
 #### 📖 Test(feat. Java)⭐
@@ -517,23 +532,41 @@
 
 #### 📖 ElasticSearch📎
 
-* [ElasticSearch - Search Fundamentals & How Search Works]
-* [ElasticSearch - Korean-Optimized Search]
-* [ElasticSearch - Mapping & Data Types]
-* [ElasticSearch - Common Search Features]
-* [ElasticSearch - Building a Product Search Engine with Elasticsearch]
-* [ElasticSearch - Deploying Elasticsearch with Elastic Cloud]
-* [ElasticSearch - Managing Documents]
-* [ElasticSearch - Analysis & Mapping]
-* [ElasticSearch - Search Fundamentals]
-* [ElasticSearch - Query Joins]
-* [ElasticSearch - Processing Search Results]
-* [ElasticSearch - Aggregations]
-* [ElasticSearch - Tips for Improving Search Results]
-* [ElasticSearch - Elasticsearch Clients]
-* [ElasticSearch - Understanding How Elasticsearch Works]
-* [ElasticSearch - Monitoring Elasticsearch]
-* [ElasticSearch - Elasticsearch Troubleshooting]
+* [ElasticSearch - Elasticsearch Core Concepts](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-ElasticSearch-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
+* [ElasticSearch - Basic Search Features & Architecture](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-%EA%B8%B0%EB%B3%B8-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EB%B0%8F-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+* [ElasticSearch - Korean Optimized Search](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-%ED%95%9C%EA%B8%80-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)
+* [ElasticSearch - Defining Data Types: Understanding Mappings](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5-%ED%83%80%EC%9E%85%EC%9D%84-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-%EB%A7%A4%ED%95%91%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%B4%EB%9E%80%3F)
+* [ElasticSearch - Commonly Used Search APIs](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5)
+* [ElasticSearch - Managing Documents (1)](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Managing-Document-(1))
+* [ElasticSearch - Managing Documents (2)](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Managing-Document-(2))
+* [ElasticSearch - Analysis and Mapping](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Analysis-and-Mapping)
+* [ElasticSearch - All About Search](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-All-About-Search)
+* [ElasticSearch - Query Joins](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Query-Joins)
+* [ElasticSearch - Processing Query Results](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Processing-Query-Results)
+* [ElasticSearch - Aggregations](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Aggregations)
+* [ElasticSearch - Tips for Improving Search Results](https://github.com/thought-corner/backend-roadmap/wiki/ElasticSearch-%E2%80%90-Tips-for-Improving-Search-Results)
+* [ElasticSearch - Elasticsearch Overview]
+* [ElasticSearch - Elasticsearch Internals]
+* [ElasticSearch - Monitoring]
+* [ElasticSearch - Troubleshooting]
+
+#### 📖 Design Pattern📎
+
+* [Design Pattern - Strategy](https://github.com/thought-corner/design-pattern/tree/main/src/strategy)
+* [Design Pattern - Factory Method](https://github.com/thought-corner/design-pattern/tree/main/src/factory_method)
+* [Design Pattern - Abstract Factory](https://github.com/thought-corner/design-pattern/tree/main/src/abstract_factory)
+* [Design Pattern - Singleton](https://github.com/thought-corner/design-pattern/tree/main/src/singleton)
+* [Design Pattern - Observer](https://github.com/thought-corner/design-pattern/tree/main/src/observer)
+* [Design Pattern - Publisher - Subscriber](https://github.com/thought-corner/design-pattern/tree/main/src/pub_sub)
+* [Design Pattern - Decorator](https://github.com/thought-corner/design-pattern/tree/main/src/decorator)
+* [Design Pattern - Adapter](https://github.com/thought-corner/design-pattern/tree/main/src/adapter)
+* [Design Pattern - Builder](https://github.com/thought-corner/design-pattern/tree/main/src/builder)
+* [Design Pattern - Template Method](https://github.com/thought-corner/design-pattern/tree/main/src/template_method)
+* [Design Pattern - Facade](https://github.com/thought-corner/design-pattern/tree/main/src/facade)
+* [Design Pattern - Proxy](https://github.com/thought-corner/design-pattern/tree/main/src/proxy)
+* [Design Pattern - Command](https://github.com/thought-corner/design-pattern/tree/main/src/command)
+* [Design Pattern - Chain of Responsibility](https://github.com/thought-corner/design-pattern/tree/main/src/chain_of_responsibility)
+* [Design Pattern - State](https://github.com/thought-corner/design-pattern/tree/main/src/state)
 
 #### 📖 [Effective Java 3/E🔥](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003160832)
 
@@ -740,6 +773,12 @@
 
 #### 📖 [가상 면접 사례로 배우는 대규모 시스템 설계 기초 2📎](https://product.kyobobook.co.kr/detail/S000211656186)
 
+#### 📖 [Clean Architecture🔥](https://product.kyobobook.co.kr/detail/S000001033082)
+
+* [(Clean Architecture 22) - 클린 아키텍처](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-22-%E2%80%90-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* [(Clean Architecture 24) - 부분적 경계](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-24-%E2%80%90-%EB%B6%80%EB%B6%84%EC%A0%81-%EA%B2%BD%EA%B3%84)
+
+
 #### 📖 [Clean Code🔥](https://product.kyobobook.co.kr/detail/S000001032980)
 
 * [(Clean Code 2) Clean Code - 의미 있는 이름](https://github.com/thought-corner/Backend-PlayGround/wiki/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C-%E2%80%90-%EC%9D%98%EB%AF%B8-%EC%9E%88%EB%8A%94-%EC%9D%B4%EB%A6%84%5BClean-Code-2%5D)
@@ -784,3 +823,12 @@
 * [Real MySQL 8.0 - 실행 계획]
 * [Real MySQL 8.0 - 아키텍처]
 * [Real MySQL 8.0 - 트랜잭션과 잠금]
+
+#### 📖 [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향)⭐](https://product.kyobobook.co.kr/detail/S000001628109?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)
+
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 협력하는 객체들의 공동체](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4(%EC%97%AD%ED%95%A0,-%EC%B1%85%EC%9E%84,-%ED%98%91%EB%A0%A5-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5)-%E2%80%90-%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94-%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98-%EA%B3%B5%EB%8F%99%EC%B2%B4)
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 이상한 나라의 객체](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4(%EC%97%AD%ED%95%A0,-%EC%B1%85%EC%9E%84,-%ED%98%91%EB%A0%A5-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5)-%E2%80%90-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%82%98%EB%9D%BC%EC%9D%98-%EA%B0%9D%EC%B2%B4)
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 타입과 추상화]
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 역할, 책임, 협력]
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 책임과 메시지]
+* [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향) - 객체 지도]
