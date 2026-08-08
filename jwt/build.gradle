@@ -1,0 +1,47 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.study'
+version = '1.0-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    springVersion = '6.2.5'
+    springSecurityVersion = '6.4.4'
+}
+
+dependencies {
+    // 서블릿 필터(OncePerRequestFilter)와 HttpServletRequest/Response
+    implementation "org.springframework:spring-web:${springVersion}"
+    compileOnly 'jakarta.servlet:jakarta.servlet-api:6.1.0'
+
+    // SecurityContext / AuthenticationEntryPoint / SecurityContextRepository
+    implementation "org.springframework.security:spring-security-web:${springSecurityVersion}"
+    // BearerTokenResolver, InvalidBearerTokenException, BearerTokenAuthenticationEntryPoint
+    implementation "org.springframework.security:spring-security-oauth2-resource-server:${springSecurityVersion}"
+
+    // JWS 서명/검증 (SignedJWT, MACSigner, MACVerifier, OctetSequenceKey)
+    implementation 'com.nimbusds:nimbus-jose-jwt:9.47'
+
+    testImplementation platform('org.junit:junit-bom:6.0.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+    // MockHttpServletRequest / MockFilterChain — 필터 테스트를 모킹 없이 돌리기 위해
+    testImplementation "org.springframework:spring-test:${springVersion}"
+    testImplementation 'jakarta.servlet:jakarta.servlet-api:6.1.0'
+}
+
+test {
+    useJUnitPlatform()
+}

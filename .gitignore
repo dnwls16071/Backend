@@ -1,3 +1,27 @@
-out/
-.idea/
+### Gradle ###
+.gradle/
+build/
+# 래퍼는 커밋한다. Gradle 설치 없이 동일 버전으로 빌드하게 해주는 게 존재 이유다.
+!gradle/wrapper/gradle-wrapper.jar
+
+### Java ###
 *.class
+out/
+bin/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
