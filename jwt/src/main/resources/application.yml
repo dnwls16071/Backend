@@ -1,0 +1,12 @@
+jwt:
+  mode: resource-server
+  secret: ${JWT_SECRET:local-dev-secret-key-please-change-me-32b}
+  issuer: https://auth.example.com
+  algorithm: HS256
+  time-to-live: 10m
+  clock-skew: 30s
+  authorities-claim: authorities
+
+logging:
+  level:
+    org.springframework.security: INFO

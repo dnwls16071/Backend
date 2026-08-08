@@ -1,5 +1,7 @@
 plugins {
     id 'java'
+    id 'org.springframework.boot' version '3.4.4'
+    id 'io.spring.dependency-management' version '1.1.7'
 }
 
 group = 'com.study'
@@ -15,31 +17,20 @@ repositories {
     mavenCentral()
 }
 
-ext {
-    springVersion = '6.2.5'
-    springSecurityVersion = '6.4.4'
-}
-
 dependencies {
-    // 서블릿 필터(OncePerRequestFilter)와 HttpServletRequest/Response
-    implementation "org.springframework:spring-web:${springVersion}"
-    compileOnly 'jakarta.servlet:jakarta.servlet-api:6.1.0'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    // JwtDecoder, BearerTokenAuthenticationFilter, JwtAuthenticationConverter
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-resource-server'
 
-    // SecurityContext / AuthenticationEntryPoint / SecurityContextRepository
-    implementation "org.springframework.security:spring-security-web:${springSecurityVersion}"
-    // BearerTokenResolver, InvalidBearerTokenException, BearerTokenAuthenticationEntryPoint
-    implementation "org.springframework.security:spring-security-oauth2-resource-server:${springSecurityVersion}"
+    // 직접 구현한 발급/검증이 쓰는 JOSE API (SignedJWT, MACSigner, OctetSequenceKey)
+    implementation 'com.nimbusds:nimbus-jose-jwt'
 
-    // JWS 서명/검증 (SignedJWT, MACSigner, MACVerifier, OctetSequenceKey)
-    implementation 'com.nimbusds:nimbus-jose-jwt:9.47'
+    // yml 키 자동완성용 메타데이터
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
 
-    testImplementation platform('org.junit:junit-bom:6.0.0')
-    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.springframework.security:spring-security-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-
-    // MockHttpServletRequest / MockFilterChain — 필터 테스트를 모킹 없이 돌리기 위해
-    testImplementation "org.springframework:spring-test:${springVersion}"
-    testImplementation 'jakarta.servlet:jakarta.servlet-api:6.1.0'
 }
 
 test {
