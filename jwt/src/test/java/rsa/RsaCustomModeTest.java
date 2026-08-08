@@ -1,7 +1,9 @@
-package mac;
+package rsa;
 
+import com.nimbusds.jose.jwk.RSAKey;
+import app.JwtApplication;
+import app.TestApiConfig;
 import mac.custom.MacTokenVerifier;
-import mac.signer.MacSecuritySigner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,6 +13,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Import;
 import org.springframework.security.oauth2.jwt.JwtDecoder;
 import org.springframework.test.web.servlet.MockMvc;
+import rsa.custom.RsaTokenVerifier;
+import rsa.signer.RsaSecuritySigner;
 
 import java.util.List;
 
@@ -20,26 +24,32 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 /**
- * {@link ResourceServerModeTest} 와 같은 시나리오를 custom 모드로 돌린다.
- * 기대값이 동일해야 두 방식이 맞바꿔 쓸 수 있다는 뜻이다.
+ * MacCustomModeTest / MacResourceServerModeTest 와 같은 시나리오를 rsa-custom 모드로 돌린다.
  */
-@SpringBootTest(properties = "jwt.mode=custom")
+// 테스트가 rsa 패키지에 있어 상위에서 @SpringBootConfiguration 을 찾지 못한다. 명시해 준다.
+@SpringBootTest(classes = JwtApplication.class, properties = "jwt.mode=rsa-custom")
 @AutoConfigureMockMvc
 @Import(TestApiConfig.class)
-class CustomModeTest {
+class RsaCustomModeTest {
 
-    @Autowired
-    MockMvc mockMvc;
-    @Autowired
-    MacSecuritySigner signer;
-    @Autowired
-    ApplicationContext context;
+    @Autowired MockMvc mockMvc;
+    @Autowired RsaSecuritySigner signer;
+    @Autowired RSAKey rsaKey;
+    @Autowired ApplicationContext context;
 
     @Test
-    @DisplayName("custom 모드에서는 직접 만든 검증기만 뜨고 JwtDecoder 는 뜨지 않는다")
-    void wiresCustomVerifierOnly() {
-        assertThat(context.getBeansOfType(MacTokenVerifier.class)).hasSize(1);
+    @DisplayName("rsa-custom 모드에서는 RSA 검증기만 뜨고 대칭키 쪽은 뜨지 않는다")
+    void wiresRsaOnly() {
+        assertThat(context.getBeansOfType(RsaTokenVerifier.class)).hasSize(1);
+        assertThat(context.getBeansOfType(MacTokenVerifier.class)).isEmpty();
         assertThat(context.getBeansOfType(JwtDecoder.class)).isEmpty();
+    }
+
+    @Test
+    @DisplayName("생성된 키 쌍은 개인키를 포함하고, 설정한 길이를 따른다")
+    void generatesKeyPair() throws Exception {
+        assertThat(rsaKey.isPrivate()).isTrue();
+        assertThat(rsaKey.toRSAPublicKey().getModulus().bitLength()).isEqualTo(2048);
     }
 
     @Test

@@ -1,7 +1,7 @@
 package mac.resourceserver;
 
 import mac.MacTokenPolicy;
-import mac.config.JwtProperties;
+import mac.config.MacJwtProperties;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -33,12 +33,10 @@ import java.util.Map;
  * </ul>
  */
 @Configuration
-@ConditionalOnProperty(name = "jwt.mode", havingValue = "resource-server", matchIfMissing = true)
-public class JwtDecoderConfig {
+@ConditionalOnProperty(name = "jwt.mode", havingValue = "mac-resource-server", matchIfMissing = true)
+public class MacJwtDecoderConfig {
 
-    /**
-     * JWS 알고리즘 이름 → JCA 키 알고리즘 이름. HS256 은 JCA 에서 HmacSHA256 이다.
-     */
+    /** JWS 알고리즘 이름 → JCA 키 알고리즘 이름. HS256 은 JCA 에서 HmacSHA256 이다. */
     private static final Map<String, String> JCA_ALGORITHMS = Map.of(
             "HS256", "HmacSHA256",
             "HS384", "HmacSHA384",
@@ -46,8 +44,9 @@ public class JwtDecoderConfig {
     );
 
     @Bean
-    public JwtDecoder jwtDecoder(JwtProperties properties, MacTokenPolicy policy, Clock clock) {
-        // macAlgorithm 을 못박는 것이 alg confusion 방어다. 지정하지 않으면 디코더는 HS256 만 기대하는데, 정책이 HS512 일 때 조용히 어긋난다.
+    public JwtDecoder jwtDecoder(MacJwtProperties properties, MacTokenPolicy policy, Clock clock) {
+        // macAlgorithm 을 못박는 것이 alg confusion 방어다. 지정하지 않으면 디코더는
+        // HS256 만 기대하는데, 정책이 HS512 일 때 조용히 어긋난다.
         NimbusJwtDecoder decoder = NimbusJwtDecoder
                 .withSecretKey(secretKey(properties))
                 .macAlgorithm(MacAlgorithm.from(policy.algorithm().getName()))
@@ -68,17 +67,16 @@ public class JwtDecoderConfig {
         return new DelegatingOAuth2TokenValidator<>(timestamps, new JwtIssuerValidator(policy.issuer()));
     }
 
-    private SecretKey secretKey(JwtProperties properties) {
-        String jwsName = properties.algorithm().getName();
-        String jcaName = JCA_ALGORITHMS.get(jwsName);
+    private SecretKey secretKey(MacJwtProperties properties) {
+        String jcaName = JCA_ALGORITHMS.get(properties.algorithm());
         if (jcaName == null) {
-            throw new IllegalArgumentException("MAC 서명에 쓸 수 없는 알고리즘입니다: " + jwsName);
+            throw new IllegalArgumentException("MAC 서명에 쓸 수 없는 알고리즘입니다: " + properties.algorithm());
         }
         return new SecretKeySpec(properties.toKey().toByteArray(), jcaName);
     }
 
     @Bean
-    public JwtAuthenticationConverter jwtAuthenticationConverter(JwtProperties properties) {
+    public JwtAuthenticationConverter jwtAuthenticationConverter(MacJwtProperties properties) {
         JwtGrantedAuthoritiesConverter authorities = new JwtGrantedAuthoritiesConverter();
         authorities.setAuthoritiesClaimName(properties.authoritiesClaim());
         // 기본 접두사는 "SCOPE_" 다. 우리 발급기는 이미 "ROLE_USER" 형태로 넣으므로

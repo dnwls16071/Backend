@@ -1,8 +1,7 @@
 package mac.resourceserver;
 
-import com.nimbusds.jose.JWSAlgorithm;
 import mac.MacTokenPolicy;
-import mac.config.JwtProperties;
+import mac.config.MacJwtProperties;
 import mac.signer.MacSecuritySigner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -23,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
  * 직접 구현한 {@code MacTokenVerifierTest} 와 같은 시나리오를 표준 구성으로 검증한다.
  * 두 방식이 같은 판정을 내리는지 비교하는 것이 목적이다.
  */
-class JwtDecoderConfigTest {
+class MacJwtDecoderConfigTest {
 
     private static final Instant NOW = Instant.parse("2026-01-01T00:00:00Z");
     private static final Duration TTL = Duration.ofMinutes(10);
@@ -31,7 +30,7 @@ class JwtDecoderConfigTest {
     private static final String ISSUER = "https://auth.example.com";
     private static final String SECRET = "0123456789abcdef0123456789abcdef";
 
-    private final JwtDecoderConfig config = new JwtDecoderConfig();
+    private final MacJwtDecoderConfig config = new MacJwtDecoderConfig();
 
     @Test
     @DisplayName("정상 토큰이면 주체와 권한 클레임을 그대로 돌려준다")
@@ -86,8 +85,7 @@ class JwtDecoderConfigTest {
     @DisplayName("정책과 다른 알고리즘으로 서명된 토큰은 거부한다")
     void rejectsTokenSignedWithUnexpectedAlgorithm() {
         // HS512 로 서명하려면 64바이트 키가 필요하다. 같은 키를 늘려 알고리즘만 바꾼다.
-        JwtProperties hs512 = new JwtProperties(null, SECRET + SECRET, ISSUER,
-                JWSAlgorithm.HS512, TTL, CLOCK_SKEW, "authorities");
+        MacJwtProperties hs512 = new MacJwtProperties(SECRET + SECRET, "HS512", ISSUER, TTL, CLOCK_SKEW, "authorities");
         String token = signer(hs512, NOW).sign("woojin", List.of("ROLE_USER"));
 
         assertThrows(JwtException.class, () -> decoderAt(NOW).decode(token));
@@ -96,7 +94,7 @@ class JwtDecoderConfigTest {
     @Test
     @DisplayName("권한 클레임 이름과 접두사가 hasRole 검사와 맞물린다")
     void convertsAuthoritiesWithoutScopePrefix() {
-        JwtProperties properties = properties(SECRET, ISSUER);
+        MacJwtProperties properties = properties(SECRET, ISSUER);
         Jwt jwt = decoderAt(NOW).decode(signer(properties, NOW).sign("woojin", List.of("ROLE_USER")));
 
         var authentication = config.jwtAuthenticationConverter(properties).convert(jwt);
@@ -105,15 +103,15 @@ class JwtDecoderConfigTest {
     }
 
     private JwtDecoder decoderAt(Instant instant) {
-        JwtProperties properties = properties(SECRET, ISSUER);
+        MacJwtProperties properties = properties(SECRET, ISSUER);
         return config.jwtDecoder(properties, properties.toPolicy(), Clock.fixed(instant, ZoneOffset.UTC));
     }
 
-    private static JwtProperties properties(String secret, String issuer) {
-        return new JwtProperties(null, secret, issuer, JWSAlgorithm.HS256, TTL, CLOCK_SKEW, "authorities");
+    private static MacJwtProperties properties(String secret, String issuer) {
+        return new MacJwtProperties(secret, "HS256", issuer, TTL, CLOCK_SKEW, "authorities");
     }
 
-    private static MacSecuritySigner signer(JwtProperties properties, Instant instant) {
+    private static MacSecuritySigner signer(MacJwtProperties properties, Instant instant) {
         MacTokenPolicy policy = properties.toPolicy();
         return new MacSecuritySigner(properties.toKey(), policy, properties.timeToLive(),
                 properties.authoritiesClaim(), Clock.fixed(instant, ZoneOffset.UTC));

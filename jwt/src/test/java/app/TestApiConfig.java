@@ -1,4 +1,4 @@
-package mac;
+package app;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.security.core.Authentication;

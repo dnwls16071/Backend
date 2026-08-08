@@ -1,5 +1,7 @@
 package mac;
 
+import app.JwtApplication;
+import app.TestApiConfig;
 import mac.custom.MacTokenVerifier;
 import mac.signer.MacSecuritySigner;
 import org.junit.jupiter.api.DisplayName;
@@ -19,10 +21,11 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-@SpringBootTest(properties = "jwt.mode=resource-server")
+// JwtApplication 이 app 패키지로 옮겨져 상위 탐색으로는 찾지 못한다. 명시해 준다.
+@SpringBootTest(classes = JwtApplication.class, properties = "jwt.mode=mac-resource-server")
 @AutoConfigureMockMvc
 @Import(TestApiConfig.class)
-class ResourceServerModeTest {
+class MacResourceServerModeTest {
 
     @Autowired
     MockMvc mockMvc;
@@ -32,7 +35,7 @@ class ResourceServerModeTest {
     ApplicationContext context;
 
     @Test
-    @DisplayName("resource-server 모드에서는 JwtDecoder 만 뜨고 직접 만든 검증기는 뜨지 않는다")
+    @DisplayName("mac-resource-server 모드에서는 JwtDecoder 만 뜨고 직접 만든 검증기는 뜨지 않는다")
     void wiresDecoderOnly() {
         assertThat(context.getBeansOfType(JwtDecoder.class)).hasSize(1);
         assertThat(context.getBeansOfType(MacTokenVerifier.class)).isEmpty();
