@@ -141,6 +141,9 @@
 * [Spring Security - Redis Redundancy Settings](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Redis%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%84%A4%EC%A0%95)
 * [Spring Security - Event](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC)
 * [Spring Security - Integration](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Integration)
+
+#### 📖 Spring Security OAuth2⭐
+
 * [Spring Security - OAuth 2.0](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Spring-Security-OAuth-2.0)
 * [Spring Security - OAuth 2.0 Authorization Type](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B6%8C%ED%95%9C%EB%B6%80%EC%97%AC-%EC%9C%A0%ED%98%95)
 * [Spring Security - Open ID Connect](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Open-ID-Connect)
@@ -151,9 +154,10 @@
 * [Spring Security - OAuth 2.0 Resource Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server)
 * [Spring Security - OAuth 2.0 Resource Server API](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-API)
 * [Spring Security - OAuth 2.0 Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-%EA%B2%80%EC%A6%9D)
-* [Spring Security - OAuth 2.0 MAC & RSA Token Verification](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-MAC-&-RSA-%ED%86%A0%ED%81%B0-%EA%B2%80%EC%A6%9D)
+* [🔖Spring Security - OAuth 2.0 MAC & RSA Token Verification]
 * [Spring Security - OAuth 2.0 Resource Server Permission Implementation](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-Resource-Server-%EA%B6%8C%ED%95%9C-%EA%B5%AC%ED%98%84)
 * [Spring Security - OAuth 2.0 opaque()](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-OAuth-2.0-opaque())
+* [Spring Security - Integrating OAuth 2.0 Client and Resource Server](https://github.com/thought-corner/spring-security-oauth2-client-resource-server)
 * [Spring Security - Authorization Server](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server)
 * [Spring Security - Authorization Server Main Domain Class](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%A3%BC%EC%9A%94-%EB%8F%84%EB%A9%94%EC%9D%B8-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [Spring Security - Authorization Server Endpoint Protocol](https://github.com/dnwls16071/Backend_Summary/wiki/Spring-Security-%E2%80%90-Authorization-Server-%EC%97%94%EB%93%9C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
@@ -178,6 +182,13 @@
 * [Spring Batch - Read and Write Operations in Relational Databases and NoSQL]
 * [Spring Batch - FaultTolerant & ItemStream]
 * [Spring Batch - Partitioning]
+* [Spring Batch ‐ Tasklet vs Chunk](https://github.com/thought-corner/backend-roadmap/wiki/Spring-Batch-%E2%80%90-Tasklet-vs-Chunk)
+* [Spring Batch - Class 2]
+* [Spring Batch - Class 3]
+* [Spring Batch - Class 4]
+* [Spring Batch - Class 5]
+* [Spring Batch - Class 6]
+* [Spring Batch - Class 7]
 
 #### 📖 Database🔥
 
@@ -215,11 +226,10 @@
 * [Database - Index Internal Structures 2 - Clustered and Secondary Indexes](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Index-Internal-Structures-2-%E2%80%90-Clustered-and-Secondary-Indexes)
 * [Database - Diagnosing Using filesort and Early Termination](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Diagnosing-Using-filesort-and-Early-Termination)
 * [Database - ICP, Covering, and Skip Scans](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-ICP,-Covering,-and-Skip-Scans)
-* [Database - Merge, MRR, New Features, Hints, and Operations]
-* [Database - The Optimizer and Histograms]
-* [Database - Join Optimization]
-* [Database - Diagnosing Join Random Access and Covering Indexes]
-* [Database - Optimizing Sort, Pagination, and Grouping]
+* [Database - Merge, MRR, New Features, Hints, and Operations](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Merge,-MRR,-New-Features,-Hints,-and-Operations)
+* [🔖Database - The Optimizer and Histograms](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-The-Optimizer-and-Histograms)
+* [Database - Join Optimization](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Join-Optimization)
+* [Database - Optimizing Sort, Pagination, and Grouping](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Optimizing-Sort,-Pagination,-and-Grouping)
 * [Database - Streaming Aggregation and Pre-aggregated Tables]
 
 #### 📖 MySQL🔥
@@ -567,6 +577,20 @@
 * [Design Pattern - Command](https://github.com/thought-corner/design-pattern/tree/main/src/command)
 * [Design Pattern - Chain of Responsibility](https://github.com/thought-corner/design-pattern/tree/main/src/chain_of_responsibility)
 * [Design Pattern - State](https://github.com/thought-corner/design-pattern/tree/main/src/state)
+* [Design Pattern - Composite](https://github.com/thought-corner/design-pattern/tree/main/src/composite)
+
+#### 📖 Clean Spring📎
+
+* [Clean Spring - Domain-Driven Development]
+* [Clean Spring - Domain-Driven Development with Design Patterns]
+* [Clean Spring - Developing Membership Application with Hexagonal Architecture]
+* [Clean Spring - JPA and Domain Model Patterns]
+* [Clean Spring - Designing a Consistent Domain Model with Aggregates]
+* [Clean Spring - Web API Adapter]
+* [Clean Spring - Hexagonal Architecture: Ports]
+* [Clean Spring - Hexagonal Architecture: Application Components]
+* [Clean Spring - Test Improvement & Architecture Validation]
+* [Clean Spring - Developing Application Components]
 
 #### 📖 [Effective Java 3/E🔥](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000003160832)
 
@@ -659,7 +683,7 @@
 * [(Effective Java Item 87) Java - 커스텀 직렬화 형태를 고려해보라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%BB%A4%EC%8A%A4%ED%85%80-%EC%A7%81%EB%A0%AC%ED%99%94-%ED%98%95%ED%83%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4%EB%B3%B4%EB%9D%BC%5BEffective-Java-Item-87%5D)
 * [(Effective Java Item 88) Java - readObject 메서드는 방어적으로 작성하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-readObject-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EB%B0%A9%EC%96%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9E%91%EC%84%B1%ED%95%98%EB%9D%BC%5BEffective-Java-Item-86%5D)
 * [(Effective Java Item 89) Java - 인스턴스 수를 통제해야 한다면 readResolve보다는 열거 타입을 사용하라](https://github.com/woojin-playground/Backend-PlayGround/wiki/Java-%E2%80%90-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%88%98%EB%A5%BC-%ED%86%B5%EC%A0%9C%ED%95%B4%EC%95%BC-%ED%95%9C%EB%8B%A4%EB%A9%B4-readResolve%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC%5BEffective-Java-Item-89%5D)
-* [(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
+* [🔖(Effective Java Item 90) Java - 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]
 
 #### 📖 [Kotlin Academy - Effective Kotlin⭐](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011546361)
 
