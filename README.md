@@ -230,7 +230,7 @@
 * [🔖Database - The Optimizer and Histograms](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-The-Optimizer-and-Histograms)
 * [Database - Join Optimization](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Join-Optimization)
 * [Database - Optimizing Sort, Pagination, and Grouping](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Optimizing-Sort,-Pagination,-and-Grouping)
-* [Database - Streaming Aggregation and Pre-aggregated Tables]
+* [Database - Streaming Aggregation and Pre-aggregated Tables](https://github.com/thought-corner/backend-roadmap/wiki/Database-%E2%80%90-Streaming-Aggregation-and-Pre%E2%80%90aggregated-Tables)
 
 #### 📖 MySQL🔥
 
@@ -342,6 +342,7 @@
 * [Apache Kafka - Kafka Consumer Application](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
 * [Apache Kafka - Idempotent Producer & Transactional Producer & Transactional Consumer](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EB%A9%B1%EB%93%B1%EC%84%B1-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C,-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C%EC%99%80-%EC%BB%A8%EC%8A%88%EB%A8%B8)
 * [Apache Kafka - Kafka Streams](https://github.com/thought-corner/Backend-PlayGround/wiki/Apache-Kafka-%E2%80%90-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%A6%88)
+* [Apache Kafka - Kafka Connect](https://github.com/thought-corner/backend-roadmap/wiki/Apache-Kafka-%E2%80%90-Kafka-Connect)
 * [Apache Kafka - Kafka Topic/Producer/Consumer](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Kafka-Topic-Producer-Consumer)
 * [Apache Kafka - Producer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Producer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Producer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
 * [Apache Kafka - Consumer Mechanism](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Java-%EA%B8%B0%EB%B0%98-Consumer-%EA%B5%AC%ED%98%84-%EB%B0%8F-Consumer-%EB%82%B4%EB%B6%80-%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98-%EC%9D%B4%ED%95%B4)
@@ -352,8 +353,8 @@
 * [Apache Kafka - KSQLDB Table](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-Table)
 * [Apache Kafka - KSQLDB Application](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-KSQLDB-%ED%99%9C%EC%9A%A9)
 * [Apache Kafka - Group by & Mview](https://github.com/dnwls16071/Backend_Summary/wiki/Apache-Kafka-%E2%80%90-Group-by%EC%99%80-Mview)
-* [Apache Kafka - Join]
-* [Apache Kafka - Time & Windows]
+* [Apache Kafka - Join](https://github.com/thought-corner/backend-roadmap/wiki/Apache-Kafka-%E2%80%90-Join)
+* [Apache Kafka - Time & Windows](https://github.com/thought-corner/backend-roadmap/wiki/Apache-Kafka-%E2%80%90-Time-&-Windows)
 * [Apache Kafka - Connecting KSQLDB to Kafka Connect]
 * [Apache Kafka - Kafka Connect]
 * [Apache Kafka - JDBC Source Connector]
@@ -801,7 +802,10 @@
 
 * [(Clean Architecture 22) - 클린 아키텍처](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-22-%E2%80%90-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [(Clean Architecture 24) - 부분적 경계](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-24-%E2%80%90-%EB%B6%80%EB%B6%84%EC%A0%81-%EA%B2%BD%EA%B3%84)
-
+* [(Clean Architecture 30) - 데이터베이스는 세부사항이다](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-30-%E2%80%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%8A%94-%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD%EC%9D%B4%EB%8B%A4)
+* [(Clean Architecture 31) - 웹은 세부사항이다](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-31-%E2%80%90-%EC%9B%B9%EC%9D%80-%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD%EC%9D%B4%EB%8B%A4)
+* [(Clean Architecture 32) - 프레임워크는 세부사항이다](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-32-%E2%80%90-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%8A%94-%EC%84%B8%EB%B6%80%EC%82%AC%ED%95%AD%EC%9D%B4%EB%8B%A4)
+* [(Clean Architecture 34) - 빠져 있는 장](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Architecture-34-%E2%80%90-%EB%B9%A0%EC%A0%B8-%EC%9E%88%EB%8A%94-%EC%9E%A5)
 
 #### 📖 [Clean Code🔥](https://product.kyobobook.co.kr/detail/S000001032980)
 
