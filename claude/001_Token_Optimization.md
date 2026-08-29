@@ -1,11 +1,5 @@
-#### Use `/clear` to keep context focused
+### Claude Code 세션의 가치를 극대화하는 방법
 
-* `/clear`
-  * reset context between unrelated tasks.
-  * Long sessions with irrelevant context can reduce performance.
-
-* `/compact`
-  * When the context is almost full and you want to continue working.
-  * Compress the message to free up space.
-
-> `/clear` is when it is not an associated action. `/compact` is used when related tasks must be continued as they are.
+* **세션 길이와 반복 실행 관리**
+  * 하나의 긴 세션은 같은 작업을 여러 짧은 세션으로 나눌 때보다 비싸다.
+  * 새 작업을 시작할 때는 `/clear`. 같은 작업에서 이전 단계가 끝났을 때는 `/compact`를 사용해 컨텍스트를 짧고 관련성있게 유지해야 한다.
