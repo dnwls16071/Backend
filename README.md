@@ -333,6 +333,8 @@
 * [MicroService Architecture - 2PC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-2PC)
 * [MicroService Architecture - TCC](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-TCC)
 * [MicroService Architecture - SAGA](https://github.com/thought-corner/Backend-PlayGround/wiki/MicroService-Architecture-%E2%80%90-SAGA)
+* [MicroService Architecture - Service Discovery]
+* [MicroService Architecture - API Gateway Service]
 
 #### 📖 Kafka⭐
 
@@ -367,13 +369,6 @@
 * [Apache Kafka - Idempotent Producers and Transactional Producers & Consumers]
 * [Apache Kafka - CDC(Change Data Capture)]
 
-#### 📖 Apache Flink📎
-
-* [Apache Flink - Apache Flink Architecture]
-* [Apache Flink - Stream Processing]
-* [Apache Flink - Data Stream API & Window]
-* [Apache Flink - State Management]
-
 #### 📖 HTTP🔥
 
 * [HTTP - Internet Network](https://github.com/woojin-playground/Backend-PlayGround/wiki/HTTP-%E2%80%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
@@ -384,6 +379,7 @@
 * [HTTP - HTTP Status Code](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C)
 * [HTTP ‐ HTTP Default Header](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-HTTP-%EC%9D%BC%EB%B0%98-%ED%97%A4%EB%8D%94)
 * [HTTP - HTTP Cache & Condition Request](https://github.com/dnwls16071/Backend_Study_TIL/wiki/HTTP-%E2%80%90-%EC%BA%90%EC%8B%9C%EC%99%80-%EC%A1%B0%EA%B1%B4%EB%B6%80-%EC%9A%94%EC%B2%AD)
+* [HTTP - Problem Details for HTTP APIs](https://github.com/thought-corner/backend-roadmap/wiki/HTTP-%E2%80%90-Problem-Details-for-HTTP-APIs)
 
 #### 📖 AWS⭐
 
@@ -492,6 +488,11 @@
 * [gRPC - Various Communication Patterns in gRPC]
 * [gRPC - gRPC Optimization Techniques and Advanced Features]
 
+#### 📖 Spring Cloud Microservice Application📎
+
+* [Spring Cloud Microservice Application - Service Discovery](https://github.com/thought-corner/service-discovery)
+* [Spring Cloud Microservice Application - API Gateway Service](https://github.com/thought-corner/api-gateway-service)
+
 #### 📖 TDD(Test-Driven-Development)⭐
 
 * [TDD - Introduction to TDD](https://github.com/thought-corner/backend-roadmap/wiki/TDD-%E2%80%90-Introduction-to-TDD)
@@ -521,18 +522,6 @@
 * [PostgreSQL - Citus - 분산 테이블과 분산 쿼리를 위한 Extension과 데이터 분산 처리]
 * [PostgreSQL - pg_cron - PostgreSQL로 구성하는 CronJob]
 * [PostgreSQL - 스케줄러 + 분산 처리를 동시에 도입하는 주기적 집계 쿼리 패턴]
-
-#### 📖 Workflow-Driven Techniques for Large-Scale Traffic Processing📎
-
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Kafka + Debezium을 활용한 CDC 패턴 설계]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Temporal을 활용한 워크플로우 패턴]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Docker와 경량 이미지를 활용한 환경 구축 방법]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Kafka에서의 메시지 Delivery Guarantee]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - 실시간 동기화의 핵심 CDC]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - MySQL Binary Log 기반의 CDC]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Binary Log 기반의 CDC 구현 플랫폼 Debezium이란?]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Debezium Architecture]
-* [Workflow-Driven Techniques for Large-Scale Traffic Processing - Debezium Architecture Best Practice와 주의사항]
 
 #### 📖 Reactive Programming📎
 
@@ -582,12 +571,12 @@
 
 #### 📖 Clean Spring📎
 
-* [Clean Spring - Domain-Driven Development]
-* [Clean Spring - Domain-Driven Development with Design Patterns]
-* [Clean Spring - Developing Membership Application with Hexagonal Architecture]
-* [Clean Spring - JPA and Domain Model Patterns]
-* [Clean Spring - Designing a Consistent Domain Model with Aggregates]
-* [Clean Spring - Web API Adapter]
+* [Clean Spring - Domain-Driven Development](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Domain%E2%80%90Driven-Development)
+* [Clean Spring - Domain-Driven Development with Design Patterns](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Domain%E2%80%90Driven-Development-with-Design-Patterns)
+* [Clean Spring - Developing Membership Application with Hexagonal Architecture](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Developing-Membership-Application-with-Hexagonal-Architecture)
+* [Clean Spring - JPA and Domain Model Patterns](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-JPA-and-Domain-Model-Patterns)
+* [Clean Spring - Designing a Consistent Domain Model with Aggregates](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Designing-a-Consistent-Domain-Model-with-Aggregates)
+* [Clean Spring - Web API Adapter](https://github.com/thought-corner/backend-roadmap/wiki/Clean-Spring-%E2%80%90-Web-API-Adapter)
 * [Clean Spring - Hexagonal Architecture: Ports]
 * [Clean Spring - Hexagonal Architecture: Application Components]
 * [Clean Spring - Test Improvement & Architecture Validation]
@@ -757,28 +746,6 @@
 * [(Effective Kotlin Item 20) Kotlin - The Beauty of the Type System](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%83%80%EC%9E%85-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%AC%98%EB%AF%B8%5BEffective-Kotlin-Item-20%5D)
 * [(Effective Kotlin Item 21) Kotlin - Generic](https://github.com/thought-corner/Backend-PlayGround/wiki/Kotlin-%E2%80%90-%EC%A0%9C%EB%84%A4%EB%A6%AD%5BEffective-Kotlin-Item-21%5D)
 
-#### 📖 [스프링으로 시작하는 리액티브 프로그래밍📎](https://product.kyobobook.co.kr/detail/S000201399476)
-
-* [Reactive Programming - Reactive Streams](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Reactive-Streams)
-* [Reactive Programming - Blocking I/O & Non-Blocking I/O](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Blocking-IO-&-Non%E2%80%90Blocking-IO)
-* [Reactive Programming - Reactor Outline](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Reactor-Outline)
-* [Reactive Programming - Marble Diagram](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Marble-Diagram)
-* [Reactive Programming - Cold Sequence & Hot Sequence](https://github.com/thought-corner/Backend-PlayGround/wiki/Reactive-Programming-%E2%80%90-Cold-Sequence-&-Hot-Sequence)
-* [Reactive Programming - Backpressure]
-* [Reactive Programming - Sinks]
-* [Reactive Programming - Scheduler]
-* [Reactive Programming - Context]
-* [Reactive Programming - Debugging]
-* [Reactive Programming - Testing]
-* [Reactive Programming - Operators]
-* [Reactive Programming - Spring Webflux]
-* [Reactive Programming - Annotation Based Controller]
-* [Reactive Programming - Functional Endpoint]
-* [Reactive Programming - Spring Data R2DBC]
-* [Reactive Programming - Exception Handling]
-* [Reactive Programming - WebClient]
-* [Reactive Programming - Reactive Streaming Data Processing]
-
 #### 📖 [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1🔥](https://product.kyobobook.co.kr/detail/S000001033116)
 
 * [가상 면접 사례로 배우는 대규모 시스템 설계 기초 1 - 사용자 수에 따른 규모 확장성](https://github.com/thought-corner/backend-roadmap/wiki/%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88-1-%E2%80%90-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%88%98%EC%97%90-%EB%94%B0%EB%A5%B8-%EA%B7%9C%EB%AA%A8-%ED%99%95%EC%9E%A5%EC%84%B1)
@@ -851,6 +818,25 @@
 * [Real MySQL 8.0 - 실행 계획]
 * [Real MySQL 8.0 - 아키텍처]
 * [Real MySQL 8.0 - 트랜잭션과 잠금]
+
+#### 📖 [타입으로 견고하게 다형성으로 유연하게⭐](https://product.kyobobook.co.kr/detail/S000210397750)
+
+* [타입으로 견고하게 다형성으로 유연하게 - 타입 검사 훑어보기](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%ED%83%80%EC%9E%85-%EA%B2%80%EC%82%AC-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0)
+* ~~[타입으로 견고하게 다형성으로 유연하게 - 서브타입에 의한 다형성(Unsupported)](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EC%84%9C%EB%B8%8C%ED%83%80%EC%9E%85%EC%97%90-%EC%9D%98%ED%95%9C-%EB%8B%A4%ED%98%95%EC%84%B1)~~
+* [타입으로 견고하게 다형성으로 유연하게 - 매개변수에 의한 다형성](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EB%8B%A4%ED%98%95%EC%84%B1)
+* [타입으로 견고하게 다형성으로 유연하게 - 두 다형성의 만남](https://github.com/thought-corner/backend-roadmap/wiki/%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EA%B2%AC%EA%B3%A0%ED%95%98%EA%B2%8C-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%E2%80%90-%EB%91%90-%EB%8B%A4%ED%98%95%EC%84%B1%EC%9D%98-%EB%A7%8C%EB%82%A8)
+* [타입으로 견고하게 다형성으로 유연하게 - 오버로딩에 의한 다형성]
+
+#### 📖 [도메인 주도 설계의 사실과 오해⭐](https://edu.nextstep.camp/c/SXgXIKdd)
+
+* [도메인 주도 설계의 사실과 오해 - DDD 요약]
+* [도메인 주도 설계의 사실과 오해 - Preface, Entity & VO]
+* [도메인 주도 설계의 사실과 오해 - 연관 관계와 애그리거트]
+* [도메인 주도 설계의 사실과 오해 - 애그리거트 구현]
+* [도메인 주도 설계의 사실과 오해 - 레포지토리와 기타 패턴]
+* [도메인 주도 설계의 사실과 오해 - 통찰력을 향한 리팩터링]
+* [도메인 주도 설계의 사실과 오해 - 유연한 설계를 향한 리팩터링]
+* [도메인 주도 설계의 사실과 오해 - 모델의 경계를 긋고, 핵심에 집중하라]
 
 #### 📖 [객체지향의 사실과 오해(역할, 책임, 협력 관점에서 본 객체지향)⭐](https://product.kyobobook.co.kr/detail/S000001628109?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-435935280379&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)
 
